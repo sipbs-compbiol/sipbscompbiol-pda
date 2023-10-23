@@ -1,0 +1,51 @@
+---
+title: "SIPBS CompBiol PDA Pages"
+image: ./assets/images/sipbs_compbio.png
+about:
+  template: trestles
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+---
+
+Welcome to the SIPBS CompBiol Group PDA pages!
+
+## What is this site for?
+
+This site is intended to provide a persistent repository of information to support you through Strathclyde's Personal Development Programme for {{< var ay >}}.
+
+::: {.callout-warning}
+**This site is a secondary resource!**. Please consult with the official course MyPlace links for submission dates, deadlines, and other timings. Use this site in conjunction with the official information at the links below.
+
+- [BM110: Being a Biomolecular Scientist 1]({{< var myplace.year1 >}})
+- [BM214: Being a Biomolecular Scientist 2]({{< var myplace.year2 >}})
+- [BM327: Being a Biomolecular Scientist 3]({{< var myplace.year3 >}})
+- [BM4: Biomolecular Sciences 4th Year]({{< var myplace.year4 >}})
+:::
+
+Information is organised under headings: 
+
+- `PDA Info` links to a calendar with the timings of family and 1:1 meetings.
+- `Resources` has a collection of links and articles to help support you in your personal development
+
+## Getting Started
+
+- Please do keep the [Key Dates](calendar.qmd) in mind as you go through the year.
+- The [Time Management](time_management.qmd) page has links and advice that may help you manage your time so that you can get some work:life balance, and avoid last-minute stresses
+- We're sharing a collection of [Learning Resources](learning_resources.qmd) to augment the syllabus, and maybe help you get a bit of "extra reading" insight into aspects of your studies, or develop skills to save you time and produce more impressive work.
+- Our [Software Tools](software_tools.qmd) links are there to compile some of the more helpful - mainly free and open-source - software that might help you in yoru studies.
+
+We also provide advice on [giving scientific presentations](presentation.qmd) - an important component of several modules - and [Science Communication](scicomm.qmd) in general. While tailored towards the BM432 project, the advice is quite general and we hope it will be helpful beyond your course.
+
+## Acknowledgements
+
+These pages were originally developed in 2023 by Dr {{< var admin.name >}} and Dr Morgan Feeney, and are currently maintained by, [Dr {{< var admin.name >}}](%7B%7B%3C%20var%20admin.homepage%20%3E%7D%7D).
+
+These materials are © University of Strathclyde, and licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Linked and embedded materials are governed by their own licenses. I assume that all external materials used or embedded here are covered under the educational fair use policy. If this is not the case and any material displayed here violates copyright, please let [me](%7B%7B%3C%20var%20admin.email%20%3E%7D%7D) know and I will remove it.

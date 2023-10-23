@@ -1,0 +1,95 @@
+---
+title: "Learning Resources"
+image: ./assets/images/learning_resources.jpg
+description: |
+ Online resources to aid you in learning bioinformatics and computational biology
+number-sections: true
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+html:
+  anchor-sections: true
+---
+
+Bioinformatics, computational biology, and coding are skills that you can learn and hone through regular practice. There are many online resources, tutorials, and learning platforms that can help you develop these skills independently. This page collects some of those resources together as a place for you to begin exploring this area.
+
+## Bioinformatics
+
+- [Rosalind](https://rosalind.info/problems/locations/) - _A gamified series of structured problems that become progressively more difficult, and a good way to learn coding as well as bioinformatics - LP_
+- [EMBL-EBI](https://www.ebi.ac.uk/training/online/courses/introductory-bioinformatics-pathway/) - _Introductory bioinformatics material offered by the main European bioinformatics research centre - LP_
+- [Galaxy](https://training.galaxyproject.org/training-material/) - _Training materials curated by the international Galaxy community - LP_
+- [IBioIC Introduction to Bioinformatics](https://widdowquinn.github.io/Teaching-IBioIC-Intro-to-Bioinformatics/) - _Materials for a course I presented in 2017-2018 - LP_
+- [Coursera](https://www.coursera.org/browse/arts-and-humanities/bioinformatics) - _Online courses in bioinformatics, collated by Coursera - LP_
+- [EdX](https://www.edx.org/learn/bioinformatics) - _Online courses in bioinformatics, collated by EdX - LP_
+
+## Programming
+
+### General
+
+- [Software Carpentry](https://software-carpentry.org/lessons/) - _"Software Carpentry has been teaching researchers the computing skills they need to get more done in less time and with less pain," as the site says. I'm a fully-qualified SWC instructor with ten years' experience, and it's a great introduction to key concepts, covering Python and R - LP_
+- [Advent of Code](https://adventofcode.com/) - _Yearly Christmas-themed puzzles that you can solve in any way you like - LP_
+- [Free Code Camp](https://www.freecodecamp.org/) - _Free training in a number of areas - LP_
+- [Codecademy](https://www.codecademy.com/) - _A range of free online training courses - LP_
+- [SpaceTraders](https://spacetraders.io/) - _Gamified learning through a web API - LP_
+- [CodinGame](https://www.codingame.com/start/) - _A gamified platform that supports learning to code in over 20 languages - LP_
+- [CheckIO](https://checkio.org/) - _Another gamified way to practice coding - LP_
+- [CodeCombat](https://codecombat.com/) - _Another game-based way to learn and practice coding - LP_
+
+### Python
+
+- [RealPython](https://realpython.com) - _Many tutorials and other learning paths for Python - LP_
+- [PyBites](https://codechalleng.es/) - _Python coding challenges, and there are accompanying coaching and podcast materials - LP_
+- [The Flask Megatutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - _A thorough and well-paced Flask tutorial - LP_
+- [Python Programming and Numerical Methods] - _Computers don't always deal with numbers the way you might expect, and understanding what they actually do will help avoid problems = LP_
+
+### R
+
+- [What They Forgot to Teach You About R](https://rstats.wtf/) - _Assuming they taught you anything about R at all, this is not a bad place to go next - LP_
+
+### SQL
+
+- [SQL Murder Mystery](https://mystery.knightlab.com/) - _Knowing SQL can be incredibly helpful in managing your data in bioinformatics (or any other field), and this is a fun way to learn new things - LP_
+
+### CSS
+
+- [CSS Grid Garden](https://cssgridgarden.com/) - _CSS comes up an awful lot when developing applications or websites (as it did building this site!), and this is a nice way to understand how the grid layout works - LP_
+- [Flexbox Froggy](https://flexboxfroggy.com/) - _Another CSS layout tool practice game, this time for the flexbox - LP_
+- [Flexbox Zombies](https://mastery.games/flexboxzombies/) - _As above but with added undead - LP_
+- [Coding Fantasy](https://codingfantasy.com/games) - _Learn Flexbox and Grid at the same time! - LP_
+- [CSS Diner](https://flukeout.github.io/) - _Gamified CSS selector practice - LP_
+
+### JavaScript
+
+- [React Megatutorial](https://blog.miguelgrinberg.com/post/the-react-mega-tutorial-chapter-1-modern-javascript) - _A thorough introduction to the React framework - LP_
+
+## Data Analysis and Data Science
+
+- [Data Carpentry](https://datacarpentry.org/lessons/#genomics-workshop) - _A companion programme to Software Carpentry (and I am also a fully-qualified DC instructor). Again, it's a great introduction to key concepts in Python and R - LP_
+- [Kaggle](https://www.kaggle.com/learn) - _Online data science courses - LP_
+- [Data Camp](https://www.datacamp.com/) - _A wide range of data science courses - LP_
+- [DataQuest](https://www.dataquest.io/) - _Learn data science through a series of challenges - LP_
+- [Coursera](https://www.coursera.org/browse/data-science) - _Data science courses available through Coursera - LP_
+- [EdX](https://www.edx.org/learn/data-science) - _A collection of online data science courses - LP_
+
+## Other Computing Skills
+
+- [Principles for Writing Clean Code](https://workat.tech/machine-coding/tutorial/introduction-clean-code-software-design-principles-nwu4qqc63e09) - _However you choose to learn to code, in whatever language, encountering and using these principles will make your life so much easier - LP_
+- [How Much Can Your Computer Do In A Second](https://computers-are-fast.github.io/) - _Some things that seem like they might be hard on a computer are quite easy; some things that seems like they should be easy are actually hard. It's worth gaining an intuition about the difference - LP_
+- [CryptoHack](https://cryptohack.org/) - _Learn modern cryptography while playing games - LP_
+- [Project Euler](https://projecteuler.net/) - _A series of mathematical problems to test your coding skills - LP_
+
+### Git
+
+- [Oh My Git!](https://ohmygit.org/) - _Gamified introduction to `git` - LP_
+- [GitHub Minesweeper](https://profy.dev/project/github-minesweeper#start-project) - _Learn collaborative `git` project management with a bot - LP_
+- [Bitbucket `git` Tutorial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - _An introduction to `git` provided by Bitbucket - LP_
+- [Learn `git` Branching](https://learngitbranching.js.org/) - _Interactive introduction to `git` branching - LP_

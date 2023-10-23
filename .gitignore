@@ -1,0 +1,13 @@
+# Ignore RStudio helper files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore macOS files
+.DS_Store
+_site/
+
+# Ignore Quarto config
+.quarto/
+/.quarto/

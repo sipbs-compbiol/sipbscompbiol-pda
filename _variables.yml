@@ -1,0 +1,17 @@
+admin:
+  name: "Leighton Pritchard"
+  email: "leighton.pritchard@strath.ac.uk"
+  homepage: "https://www.strath.ac.uk/staff/pritchardleightondr/"
+
+ay: "AY2023-24"
+
+myplace:
+  year1: "https://classes.myplace.strath.ac.uk/course/view.php?id=21634&section=3"
+  year2: "https://classes.myplace.strath.ac.uk/course/view.php?id=21632&section=4"
+  year3: "https://classes.myplace.strath.ac.uk/course/view.php?id=21691&section=4"
+  year4: "https://classes.myplace.strath.ac.uk/course/view.php?id=16308&section=11"
+  
+spider:
+  url: "https://spider.science.strath.ac.uk/spider/spider/myHome.php"
+  epdp: "https://spider.science.strath.ac.uk/spider/spider/modules/pdp/index.php"
+  booking: "https://spider.science.strath.ac.uk/spider/spider/modules/pdp_week/staff_booking.php"
