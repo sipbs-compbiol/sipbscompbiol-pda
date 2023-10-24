@@ -55,4 +55,4 @@ This is an **indicative** calendar for PDP activities in {{< var ay >}}.
 | **4** | **Fri 9/2** | **Year 3:** Write a short report summarising the research you have done about the employer/organisation your CV & covering letter are tailored to, and upload to [SPIDER]({{< var spider.epdp >}}) | **student** |
 | **4** | **Fri 9/2** | **Year 4:** Write a short report summarising the research you have done about the employer/organisation your CV & covering letter are tailored to, and upload to [SPIDER]({{< var spider.epdp >}}) | **student** |
 | **4** | **Fri 9/2** | Complete [ePDP sections]({{< var spider.epdp >}}) and book a 1:1 meeting slot at [SPIDER]({{< var spider.booking >}}) | **student** |
-| **5** | w/b Mon 23/10 | 1:1 PDA Meetings | **LP, students** |
+| **5** | w/b Mon 12/2 | 1:1 PDA Meetings | **LP, students** |
