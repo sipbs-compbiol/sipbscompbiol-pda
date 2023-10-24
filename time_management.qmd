@@ -1,8 +1,8 @@
 ---
-title: "Project and Time Management"
+title: "Time Management"
 image: ./assets/images/time_management.jpg
 description: |
- Advice for managing your project, and your time
+ Advice for managing your most valuable non-renewable resource: time
 number-sections: true
 about:
   template: marquee
@@ -20,71 +20,41 @@ html:
   anchor-sections: true
 ---
 
-This may be your first time working on a scientific project or set of experiments at this kind of scale. The amount and variety of work required can seem overwhelming, especially if the topics and techniques are new. The need to keep a larger-level project and its goals in mind while focusing on a smaller subtask or single experiment can also be tricky, but does get easier with practice.
-
-::: {.callout-warning}
-**Make sure you back up all of your project work.** IT issues such as computer failure are not considered grounds for an extension.
-:::
 
 ::: {.callout-caution}
 These articles come from external sources and are opinions. You will find a range of opinions within the group, as well as online. Some approaches are objectively better than others, and some are personal preference. Find what works for you, and **discussion is encouraged**!
 :::
 
-## Data and Project Management
+We all have different most effective ways of working and organising our time. Some of this advice may work for you, some may not. That's natural, and it's OK to discard advice that doesn't work. Even terrible lists of advice might have one good thing that works for you.
 
-These Notebooks on data and project management were prepared by Dr. Pritchard and Dr. Feeney for the 2022 session of BM432
+A lot of what I've seen in common is:
 
-- [Project management guidelines](https://sipbs-compbiol.github.io/BM432/notebooks/03-data_management_workshop.html) 
-    - [01-Data Analysis in the Research Cycle](https://sipbs-compbiol.github.io/BM432/notebooks/03-01-data_analysis.html)
-    - [02-Data and Project Management](https://sipbs-compbiol.github.io/BM432/notebooks/03-02-project_management.html)
-    - [03-Reproducibility, Replicability, and FAIR Guidelines](https://sipbs-compbiol.github.io/BM432/notebooks/03-03-reproducibility.html)
-    - [04-Keeping a Lab Notebook to Document Your Project](https://sipbs-compbiol.github.io/BM432/notebooks/03-04-keeping_a_lab_notebook.html)
-    - [05-Reference Management](https://sipbs-compbiol.github.io/BM432/notebooks/03-05-reference_management.html)
-    - [06-How to Use Reference Management Software](https://sipbs-compbiol.github.io/BM432/notebooks/03-06-using_a_reference_manager.html)
+1. Identify what *needs* to be done, and for when
+2. Make a plan of your time and put it in writing
+3. "Good enough is good enough" - don't spend too much time aiming for perfect
+4. Be flexible enough to change plans when necessary
+5. Schedule in breaks
+6. Reward yourself for completing tasks
+7. "Natural breaks" like mealtimes make good boundaries for working on any one task
 
-- [NCSC advice for backing up your data](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/always-back-up-your-most-important-data)
+## Time Management: Advice
 
-### How Dr Pritchard backs up his data
-
-::: {.callout-tip}
-The university has a [set of recommendations](https://www.strath.ac.uk/professionalservices/informationservices/it/saveshare/) for how you should save, share, and back up your data.
-:::
-
-For each individual computer I:
-
-- …work on data I cannot reconstruct easily using a cloud storage method that integrates with my filesystem.
-  - I work on the data on the local machine, but changes are (automatically) propagated to a cloud service. This allows me to maintain a consistent state of my work across several machines at several sites, and automatically reproduces the material at several goegraphical locations in the cloud.
-  - Ways to do this include [OneDrive](https://www.microsoft.com/en-gb/microsoft-365/onedrive/online-cloud-storage), [iCloud](https://www.icloud.com/), [DropBox](https://www.dropbox.com/), [GitHub](https://www.dropbox.com/), [GitLab](https://gitlab.com/users/sign_in), [BitBucket](https://bitbucket.org/) and so on
-- …back up each computer to a local dedicated storage system, e.g. a [NAS (network-attached storage)](https://en.wikipedia.org/wiki/Network-attached_storage) with a high-availability file system (i.e. running a variant of [RAID](https://en.wikipedia.org/wiki/RAID) or similar)
-  - This backup is run using an automated tool, such as Apple's [Time Machine](https://support.apple.com/en-gb/HT201250), or [Carbon Copy Cloner](https://bombich.com/download)
-- …additionally back up each computer to an external hard drive
-  - I use at least two hard drives per machine, and I swap these between two distinct physical locations at regular intervals (usually weekly)
-  - This backup is also run using an automated tool, such as Apple's [Time Machine](https://support.apple.com/en-gb/HT201250), or [Carbon Copy Cloner](https://bombich.com/download)
-
-
-## Laboratory Notebooks: Advice
-
-- [A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424) 
-  - _My favourite introduction to the topic. It clearly lays out a template and a rationale for each decision - LP_
-- [How to Keep a Lab Notebook for Bioinformatic Analyses](https://blog.addgene.org/how-to-keep-a-lab-notebook-for-bioinformatic-analyses) 
-  - _A guest blog at AddGene which makes some choices I would question. They're probably fine for one small project, but I'd worry about scaling up, and lack of clarity in the longer term - LP_
-- [Ten Simple Rules for a Computational Biologist's Laboratory Notebook](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004385) 
-  - _Overall sound advice, but short on recommending specific solutions - LP_
-- [10 File Management Tips to Keep Your Electronic Files Organized](https://www.liveabout.com/computer-file-management-tips-2948083) 
-  - _Good general advice, and not only for bioinformatics projects - LP_
-- [How to keep a lab notebook](https://www.science.org/content/article/how-keep-lab-notebook) 
-  - _First-hand experience in quotes from a number of scientists. Learn from their fails - LP_ 
-- [10 Tips For Organizing Your Lab Book](https://bitesizebio.com/11068/10-tips-for-organizing-your-lab-book/) 
-  - _Very lab-focused, but good general points - LP_
-
-## Time and Project Management: Advice
-
+- [7 Time Management Tips for Students](https://www.topuniversities.com/blog/7-time-management-tips-students) 
+  - _From "Top Universities," apparently._
 - [8 Time Management Tips for Students](https://summer.harvard.edu/blog/8-time-management-tips-for-students/)
   - _Really good general advice, from Harvard - LP_
+- [11 Time Management Tips That Work](https://www.liveabout.com/time-management-tips-2947336) 
+  - _So says "liveabout.com"_
+- [Goal-setting](../docs/assets/Goal-setting.pdf) 
+  - _A guide to goal-setting._
+- [How to Use Science to Focus at Work](https://www.wired.co.uk/article/how-to-focus-concentrate)
+  - _Some advice from Wired magazine._
 - [Kanban boards](https://en.wikipedia.org/wiki/Kanban_board)
   - _Kanban is a flexible way to manage projects that allows for rearrangement and rescheduling in the middle of the work. It doesn't require any particular tool or software (I used to use sticky notes), but Trello does a good job of this - LP_
 - [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
   - _I use the Pomodoro technique (with BeFocused, see below) to help me focus when I need to get through long writing tasks. I find it most useful to avoid burning out on a large piece of work - LP_
+- [Tips for Managing Your Study Time](https://www.khanacademy.org/test-prep/sat/x0a8c2e5f:general-sat-strategies/x0a8c2e5f:how-to-prep-for-the-sat/a/tips-for-managing-your-study-time) 
+  - _Time management advice from Khan Academy._
 
 ## Time and Project Management: Resources
 

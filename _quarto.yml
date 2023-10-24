@@ -17,10 +17,8 @@ website:
         menu:
           - text: "Time Management"
             href: time_management.qmd
-          - text: "Learning Resources"
-            href: learning_resources.qmd
-          - text: "Software Tools"
-            href: software.qmd
+          - text: "Online Resources"
+            href: online_resources.qmd
           - text: "Giving Scientific Presentations"
             href: presentation.qmd
           - text: "Science Communication"

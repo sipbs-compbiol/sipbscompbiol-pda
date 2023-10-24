@@ -38,9 +38,8 @@ Information is organised under headings:
 ## Getting Started
 
 - Please do keep the [Key Dates](calendar.qmd) in mind as you go through the year.
+- The [Online Resources](online_resources.qmd) page has links to resources covering health and wellbeing, finances, careers advice and other useful things.
 - The [Time Management](time_management.qmd) page has links and advice that may help you manage your time so that you can get some work:life balance, and avoid last-minute stresses
-- We're sharing a collection of [Learning Resources](learning_resources.qmd) to augment the syllabus, and maybe help you get a bit of "extra reading" insight into aspects of your studies, or develop skills to save you time and produce more impressive work.
-- Our [Software Tools](software_tools.qmd) links are there to compile some of the more helpful - mainly free and open-source - software that might help you in yoru studies.
 
 We also provide advice on [giving scientific presentations](presentation.qmd) - an important component of several modules - and [Science Communication](scicomm.qmd) in general. While tailored towards the BM432 project, the advice is quite general and we hope it will be helpful beyond your course.
 

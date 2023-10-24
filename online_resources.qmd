@@ -1,0 +1,150 @@
+---
+title: "Online Resources"
+image: ./assets/images/online_help.jpg
+description: |
+ Online resources that might help with getting through the non-academic side of things.
+number-sections: true
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+html:
+  anchor-sections: true
+---
+
+We're all under pressure and find things difficult, from time to time. This page is intended to highlight some resources that may be useful if you're feeling the strain.
+
+::: {.callout-note}
+If any of the links on this page are broken or outdated, please email [{{< var admin.name >}}]({{< var admin.email >}}), or feel free to submit a pull request or issue report at [GitHub](https://github.com/sipbs-compbiol/sipbscompbiol-pda).
+:::
+
+## University Resources
+
+- [Who should I talk to?](../assets/docs/Scenarios.pdf) - _A table of which university service to contact first, depending on the situation._
+
+### Health and Welfare
+
+- [Departmental Disability Contacts](https://www.strath.ac.uk/professionalservices/disabilityandwellbeing/disabilitysupport/departmentaldisabilitycontactsddc/)
+- [Disability and Wellbeing Support](https://www.strath.ac.uk/professionalservices/disabilityandwellbeing/disabilitysupport/) - _University pages for disability support_
+- [A Guide To Stress-Free Exams](../assets/docs/Stress_Free_Exams.pdf) - _A document produced by SEES with advice for exam preparation._
+- [Mental Health and Wellbeing Support](https://www.strath.ac.uk/professionalservices/disabilityandwellbeing/mentalhealthwellbeingsupport/) - _University pages for mental health support_
+- [Student Counselling](https://studentsupport.strath.ac.uk/counselling) - _University counselling service for students._
+
+### Personal Circumstances
+
+- [Information for Student Carers](https://www.strath.ac.uk/professionalservices/accessequalityinclusionservice/wideningaccess/gettingin/studentcarers/) - _Support for students in a caring role._
+
+### Finances
+
+- [Cost of Living Advice for Students](https://www.strath.ac.uk/studywithus/feesfunding/costoflivingforstudents/) - _University advice for getting all the money you're entitled to, and for living on a restricted budget._
+- [Digital Inclusion Programme](https://www.strath.ac.uk/studywithus/scholarships/digitalinclusionequipmentloanscheme/) - _Support to purchase IT equipment to aid in your learning._
+- [Mature Student Hardship Fund](https://www.strath.ac.uk/studywithus/scholarships/maturestudentshardshipfund/) - _Additional financial support for mature students._
+- [Scholarships and Funding](https://www.strath.ac.uk/studywithus/scholarships/?) - _Scholarship and funding opportunities at the university._
+
+### Academic Support
+
+- [Academic Support](https://www.strath.ac.uk/studywithus/strathlife/academicsupport/) - _The university's academic support service_
+- [Skills Boost](https://guides.lib.strath.ac.uk/skillsboost) - _A 45-minute self-study session from the University Library._
+- [Study Skills Workshops](https://www.strath.ac.uk/professionalservices/accessequalityinclusionservice/wideningaccess/gettingready/studyskillsworkshops/) - _The university runs workshops for developing study skills._
+  - _The Library also run [drop-in sessions](https://www.strath.ac.uk/professionalservices/informationservices/libraryithelp/skillsboostdrop-insessions/) for "Skills Boost"._
+- [Studying From Home](https://www.strath.ac.uk/studywithus/strathlife/tipsforstudyingfromhome/) - _Advice on how to study effectively from home_
+
+### Careers
+
+- [University Career Hub](https://careerhub.strath.ac.uk/students/login?ReturnUrl=%2fstudents%2fdocs%2fdetail%2f12%2feffective-cvs) - _Central access point for university careers support_
+
+### Student Union Resources
+
+- [Advice Hub](https://www.strathunion.com/support/) - _Central point of contact for advice._
+- [Hear to Listen](https://www.strathunion.com/support/heartolisten/) - _Informal, confidential wellbeing support from the Student Union_
+- [Housing](https://www.strathunion.com/support/housing/) - _SU support and advice with housing._
+- [Money](https://www.strathunion.com/support/money/) - _SU support and advice with money._
+
+## Academic Support
+
+- [How To Study](https://lsc.cornell.edu/how-to-study/) - _Good advice from Cornell University._
+- [Study Skills](https://www.advance-he.ac.uk/knowledge-hub/study-skills) - _Study Skills advice from Advance HE._
+- [Study Skills](https://help.open.ac.uk/browse/study-skills) - _Open University Study Skills advice._
+- [Study Skills For College Students](https://www.collegeatlas.org/college-study-guides.html) - _College Atlas advice for college students._
+- [Top 10 Study Skills](https://www.lynchburg.edu/academics/tutoring-and-academic-support/top-10-study-skills/) - _Top 10 Study Skills, from the University of Lynchburg._
+
+### Active Reading
+
+Reading takes time, however you do it. "Active reading" attempts to focus effort on getting meaning from the text efficiently - reducing it to its key points. This can help with mind-mapping, note-taking and other techniques. It's also transferable to taking notes from lectures, either live or pre-recorded.
+
+- [Active Reading](https://www.lynchburg.edu/academics/tutoring-academic-support/active-reading/) - _Advice from the University of Lynchburg._
+- [Active Reading Strategies](https://mcgraw.princeton.edu/active-reading-strategies) - _McGraw-Hill's guidance on active reading._
+- [Seven Active Reading Strategies](https://www.thoughtco.com/active-reading-strategies-1857325) - _Strategies for active reading, from ThoughtCo._
+
+### Taking effective notes
+
+It's a pain to have to go back to the original material and read through it all/watch it all. Identifying what's important in the material _the first time around_ is a skill that it's possible to train and develop.
+
+- [How To Take Notes](https://www.lifehack.org/articles/featured/advice-for-students-taking-notes-that-work.html) - _Three approaches from LifeHack._
+- [How To Take Study Notes](https://www.oxfordlearning.com/5-effective-note-taking-methods/) - _Five methods from Oxford Learning._
+- [Strategies For Taking Good Lecture Notes](https://depts.washington.edu/ic/content/notes.php?style=graphics) - _The University of Washington's advice for students._
+- [Take Effective Notes](https://www.intelligent.com/take-effective-notes/) - _Seven strategies from `intelligent.com`._
+- [Taking Effective Notes](https://usm.maine.edu/learning-commons/note-taking-active-reading/) - _Advice from the University of Maine._
+- [The Best Techniques For Taking Notes](https://lifehacker.com/back-to-basics-perfect-your-note-taking-techniques-484879924) - _Lifehacker's advice on note-taking._
+
+### Essay-writing
+
+It can be difficult moving from writing short, concise answers to questions, to longer, academic essay-style writing. There are large numbers of sites out there offering advice (see below), and some key points they have in common include:
+
+- An essay lays out an *argument* it's meant to convince the reader of your view.
+- You can only really write about one idea at a time in a sentence or paragraph.
+- You need to present your ideas in an order that makes sense to the reader, so that they understand your argument.
+  - Your ideas should lead on from one to the next.
+- In general, a structure that starts *broad* (set the scene with general context), and becomes *narrow* (makes the final point) works well.
+  - This is sometimes called an "inverted pyramid".
+- Outline your argument in bullet points (or a mind-map, see below) to check the flow of the logic.
+- Get feedback early - earlier than you think!
+  - The earlier you get advice, the easier it will be to incorporate it, and the less work will be needed to make changes.
+  - Make use of your friends, family and other students: can they understand the flow, even if the topic is unfamiliar? (and making your text understandable to non-technical people is real and valuable skill)
+
+- [Academic Writing](https://owl.purdue.edu/owl/general_writing/academic_writing/index.html) - _Purdue's OWL._
+- [Beginner's Guide to Writing an Essay](https://www.scribbr.com/category/academic-essay/) - _Courtesy of Scribbr._
+- [How To Look Clever Without Even Trying](https://www.english.cam.ac.uk/converse/essays/essaywriting/index.htm) - _Advice from Cambrdige University about essay-writing._
+- [Strategies for Essay-Writing](https://writingcenter.fas.harvard.edu/pages/strategies-essay-writing) - _Good advice from Harvard University._
+
+### Mind-Mapping
+
+I found mind-mapping useful when I was a student. It let me link topics and ideas in an order that made sense to me and let me see the connections that led from one to the other. That was good for exams, and for just understanding the overall structure of a topic. I know quite a few lecturers who use them to summarise seminars they attend, and others who use the technique to plot out papers and lectures. It doesn't work for everyone or every topic, but you might find it useful.
+
+- [Mind Mapping](https://www.vanderbilt.edu/bold/mind-mapping/) - _A guide, with links to tools, from Vanderbilt University._
+- [Mind Mapping](https://canvas.hull.ac.uk/courses/610/pages/mind-mapping) - _How to use Mind-Mapping, from the University of Hull._
+- [Minmapping](https://www.brookes.ac.uk/students/academic-development/online-resources/mindmapping/) - _Guidance and links, at Oxford Brookes University._
+
+## Careers
+
+- [Life Sciences CV Checklist](../assets/docs/CV_Checklist_Life_Sciences.pdf) - _CV checklist produced by Strathclyde's Careers Service._
+- [Writing Professional Emails](../assets/docs/Writing_Professional_Emails.pdf) - _Email can seem like an informal medium, but when applying for jobs/internships/whatever you will be assessed on your ability to communicate appropriately for the situation (i.e. professionally)._
+
+## Physical and Mental Health
+
+- [Imposter Syndrome](../assets/docs/IAC_Edinburgh_Imposter_Syndrome.pdf) - _Imposter Syndrome is common among students and academics. We're willingly putting ourselves into positions where we are not - _yet_ - fully comfident or on top of the work we're doing. This document proposes some strategies and lists resources that might be helpful if you're feeling it. - LP_
+- [Mental Health for Undergraduates](../assets/docs/mental_health_ug.jpg) - _A US-centric poster (the phone numbers won't work) highlighting aspects of mental health for students._
+- [Think Positive Scotland](https://thinkpositive.scot/) - _Mental health support for students in Scotland._ 
+
+## Charities and Other Support
+
+We all need help sometimes. And sometimes more than the university can provide directly. Just in case.
+
+- [Citizens Advice Scotland](https://www.citizensadvice.org.uk/scotland/) - _Legal, money, health._
+- [Glasgow Helps](https://www.glasgowhelps.org/) - _A central hub for finding the charity or organisation you need for support._
+- [Glasgow NE Foodbank](https://glasgowne.foodbank.org.uk/) - _Food and nutrition._
+- [Glasgow NW Foodbank](https://glasgownw.foodbank.org.uk/) - _Food and nutrition._
+- [Glasgow SE Foodbank](https://glasgowse.foodbank.org.uk/) - _Food and nutrition._
+- [Glasgow SW Foodbank](https://glasgowsw.foodbank.org.uk/) - _Food and nutrition._
+- [Mind](https://www.mind.org.uk/) - _Mental health and wellbeing_
+- [Samaritans Scotland](https://www.samaritans.org/scotland/samaritans-in-scotland/) - _Mental health and wellbeing_
+- [SAMH](https://www.samh.org.uk/) - _Mental health and wellbeing_
+- [Shelter Scotland](https://scotland.shelter.org.uk/) - _Housing_
