@@ -1,103 +1,5 @@
 [
   {
-    "objectID": "calendar.html",
-    "href": "calendar.html",
-    "title": "PDA Key Dates",
-    "section": "",
-    "text": "Warning\n\n\n\nThis calendar is a secondary resource!. Please consult with the official course MyPlace links for submission dates, deadlines, and other timings. The official information can be found at the links below.\n\nBM110: Being a Biomolecular Scientist 1\nBM214: Being a Biomolecular Scientist 2\nBM327: Being a Biomolecular Scientist 3\nBM432: Being a Biomolecular Scientist 4"
-  },
-  {
-    "objectID": "calendar.html#calendar",
-    "href": "calendar.html#calendar",
-    "title": "PDA Key Dates",
-    "section": "1 Calendar",
-    "text": "1 Calendar\nThis is an indicative calendar for PDP activities in AY2023-24.\n\n1.1 Semester 1\n\n\n\n\n\n\n\n\n\nWeek\nDate/Time\nActivity\nResponsibility\n\n\n\n\nInduction Week\nThu 14/9\nAcademic Family Meeting\nstudents, LP\n\n\n5\nFri 20/10\nYear 1: Upload “EXPLORE I just don’t know what to do with myself.” to SPIDER\nstudent\n\n\n5\nFri 20/10\nYear 2: Upload “EXPLORE I just don’t know what to do with myself.” to SPIDER\nstudent\n\n\n5\nFri 20/10\nYear 3: Upload “PLAN: Gaining and Recognising Your Experience. Complete the Goal-setting and Action Planning activity in section 4.9” to SPIDER\nstudent\n\n\n5\nFri 20/10\nYear 4: Upload “EXPLORE I just don’t know what to do with myself.” to SPIDER\nstudent\n\n\n5\nFri 20/10\nComplete ePDP sections and book a 1:1 meeting slot at SPIDER\nstudent\n\n\n6\nw/b Mon 23/10\n1:1 PDA Meetings\nLP, students\n\n\n\n\n\n1.2 Semester 2\n\n\n\n\n\n\n\n\n\nWeek\nDate/Time\nActivity\nResponsibility\n\n\n\n\n4\nFri 9/2\nYear 1: Upload the completed Skills Audit and worksheet to SPIDER\nstudent\n\n\n4\nFri 9/2\nYear 2: Upload the completed worksheet on Recognising your Skills to SPIDER\nstudent\n\n\n4\nFri 9/2\nYear 3: Write a short report summarising the research you have done about the employer/organisation your CV & covering letter are tailored to, and upload to SPIDER\nstudent\n\n\n4\nFri 9/2\nYear 4: Write a short report summarising the research you have done about the employer/organisation your CV & covering letter are tailored to, and upload to SPIDER\nstudent\n\n\n4\nFri 9/2\nComplete ePDP sections and book a 1:1 meeting slot at SPIDER\nstudent\n\n\n5\nw/b Mon 23/10\n1:1 PDA Meetings\nLP, students"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "SIPBS CompBiol PDA Pages",
-    "section": "",
-    "text": "Welcome to the SIPBS CompBiol Group PDA pages!"
-  },
-  {
-    "objectID": "index.html#what-is-this-site-for",
-    "href": "index.html#what-is-this-site-for",
-    "title": "SIPBS CompBiol PDA Pages",
-    "section": "What is this site for?",
-    "text": "What is this site for?\nThis site is intended to provide a persistent repository of information to support you through Strathclyde’s Personal Development Programme for AY2023-24.\n\n\n\n\n\n\nWarning\n\n\n\nThis site is a secondary resource!. Please consult with the official course MyPlace links for submission dates, deadlines, and other timings. Use this site in conjunction with the official information at the links below.\n\nBM110: Being a Biomolecular Scientist 1\nBM214: Being a Biomolecular Scientist 2\nBM327: Being a Biomolecular Scientist 3\nBM4: Biomolecular Sciences 4th Year\n\n\n\nInformation is organised under headings:\n\nPDA Info links to a calendar with the timings of family and 1:1 meetings.\nResources has a collection of links and articles to help support you in your personal development"
-  },
-  {
-    "objectID": "index.html#getting-started",
-    "href": "index.html#getting-started",
-    "title": "SIPBS CompBiol PDA Pages",
-    "section": "Getting Started",
-    "text": "Getting Started\n\nPlease do keep the Key Dates in mind as you go through the year.\nThe Online Resources page has links to resources covering health and wellbeing, finances, careers advice and other useful things.\nThe Time Management page has links and advice that may help you manage your time so that you can get some work:life balance, and avoid last-minute stresses\n\nWe also provide advice on giving scientific presentations - an important component of several modules - and Science Communication in general. While tailored towards the BM432 project, the advice is quite general and we hope it will be helpful beyond your course."
-  },
-  {
-    "objectID": "index.html#acknowledgements",
-    "href": "index.html#acknowledgements",
-    "title": "SIPBS CompBiol PDA Pages",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nThese pages were originally developed in 2023 by Dr Leighton Pritchard and Dr Morgan Feeney, and are currently maintained by, Dr Leighton Pritchard.\nThese materials are © University of Strathclyde, and licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Linked and embedded materials are governed by their own licenses. I assume that all external materials used or embedded here are covered under the educational fair use policy. If this is not the case and any material displayed here violates copyright, please let me know and I will remove it."
-  },
-  {
-    "objectID": "learning_resources.html",
-    "href": "learning_resources.html",
-    "title": "Learning Resources",
-    "section": "",
-    "text": "Bioinformatics, computational biology, and coding are skills that you can learn and hone through regular practice. There are many online resources, tutorials, and learning platforms that can help you develop these skills independently. This page collects some of those resources together as a place for you to begin exploring this area."
-  },
-  {
-    "objectID": "learning_resources.html#bioinformatics",
-    "href": "learning_resources.html#bioinformatics",
-    "title": "Learning Resources",
-    "section": "1 Bioinformatics",
-    "text": "1 Bioinformatics\n\nRosalind - A gamified series of structured problems that become progressively more difficult, and a good way to learn coding as well as bioinformatics - LP\nEMBL-EBI - Introductory bioinformatics material offered by the main European bioinformatics research centre - LP\nGalaxy - Training materials curated by the international Galaxy community - LP\nIBioIC Introduction to Bioinformatics - Materials for a course I presented in 2017-2018 - LP\nCoursera - Online courses in bioinformatics, collated by Coursera - LP\nEdX - Online courses in bioinformatics, collated by EdX - LP"
-  },
-  {
-    "objectID": "learning_resources.html#programming",
-    "href": "learning_resources.html#programming",
-    "title": "Learning Resources",
-    "section": "2 Programming",
-    "text": "2 Programming\n\n2.1 General\n\nSoftware Carpentry - “Software Carpentry has been teaching researchers the computing skills they need to get more done in less time and with less pain,” as the site says. I’m a fully-qualified SWC instructor with ten years’ experience, and it’s a great introduction to key concepts, covering Python and R - LP\nAdvent of Code - Yearly Christmas-themed puzzles that you can solve in any way you like - LP\nFree Code Camp - Free training in a number of areas - LP\nCodecademy - A range of free online training courses - LP\nSpaceTraders - Gamified learning through a web API - LP\nCodinGame - A gamified platform that supports learning to code in over 20 languages - LP\nCheckIO - Another gamified way to practice coding - LP\nCodeCombat - Another game-based way to learn and practice coding - LP\n\n\n\n2.2 Python\n\nRealPython - Many tutorials and other learning paths for Python - LP\nPyBites - Python coding challenges, and there are accompanying coaching and podcast materials - LP\nThe Flask Megatutorial - A thorough and well-paced Flask tutorial - LP\n[Python Programming and Numerical Methods] - Computers don’t always deal with numbers the way you might expect, and understanding what they actually do will help avoid problems = LP\n\n\n\n2.3 R\n\nWhat They Forgot to Teach You About R - Assuming they taught you anything about R at all, this is not a bad place to go next - LP\n\n\n\n2.4 SQL\n\nSQL Murder Mystery - Knowing SQL can be incredibly helpful in managing your data in bioinformatics (or any other field), and this is a fun way to learn new things - LP\n\n\n\n2.5 CSS\n\nCSS Grid Garden - CSS comes up an awful lot when developing applications or websites (as it did building this site!), and this is a nice way to understand how the grid layout works - LP\nFlexbox Froggy - Another CSS layout tool practice game, this time for the flexbox - LP\nFlexbox Zombies - As above but with added undead - LP\nCoding Fantasy - Learn Flexbox and Grid at the same time! - LP\nCSS Diner - Gamified CSS selector practice - LP\n\n\n\n2.6 JavaScript\n\nReact Megatutorial - A thorough introduction to the React framework - LP"
-  },
-  {
-    "objectID": "learning_resources.html#data-analysis-and-data-science",
-    "href": "learning_resources.html#data-analysis-and-data-science",
-    "title": "Learning Resources",
-    "section": "3 Data Analysis and Data Science",
-    "text": "3 Data Analysis and Data Science\n\nData Carpentry - A companion programme to Software Carpentry (and I am also a fully-qualified DC instructor). Again, it’s a great introduction to key concepts in Python and R - LP\nKaggle - Online data science courses - LP\nData Camp - A wide range of data science courses - LP\nDataQuest - Learn data science through a series of challenges - LP\nCoursera - Data science courses available through Coursera - LP\nEdX - A collection of online data science courses - LP"
-  },
-  {
-    "objectID": "learning_resources.html#other-computing-skills",
-    "href": "learning_resources.html#other-computing-skills",
-    "title": "Learning Resources",
-    "section": "4 Other Computing Skills",
-    "text": "4 Other Computing Skills\n\nPrinciples for Writing Clean Code - However you choose to learn to code, in whatever language, encountering and using these principles will make your life so much easier - LP\nHow Much Can Your Computer Do In A Second - Some things that seem like they might be hard on a computer are quite easy; some things that seems like they should be easy are actually hard. It’s worth gaining an intuition about the difference - LP\nCryptoHack - Learn modern cryptography while playing games - LP\nProject Euler - A series of mathematical problems to test your coding skills - LP\n\n\n4.1 Git\n\nOh My Git! - Gamified introduction to git - LP\nGitHub Minesweeper - Learn collaborative git project management with a bot - LP\nBitbucket git Tutorial - An introduction to git provided by Bitbucket - LP\nLearn git Branching - Interactive introduction to git branching - LP"
-  },
-  {
-    "objectID": "presentation.html",
-    "href": "presentation.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "Think about exactly what you want to convey\n\n\ntell a story\nkeep it simple\nkeep the number of results you show small (≈3-4) and the message from each clear\n\n\nPrepare figures for your slides (the “backbone” of your talk)\n\n\n\n\n\n\n\nTip\n\n\n\nThe figures for your slides will rarely, if ever, be exatly the same figures you present in your thesis. You cannot convey as much information in a slide, so you should simplify figures for your talk such that they can be easily understood by your audience.\nPresenting too much data on a single slide can be overwhelming and your audience may disengage or read the slide instead of listening to you.\n\n\n\nIntroduction: think about what your audience needs to know (context) to understand your work\n\n\nwhat didn’t you know, at the beginning of your project?\nkeep it simple: the minimum to contextualise your story\n\n\nFor each experiment, explain (in this order):\nwhat you were trying to do (aim)\nhow you did it (method)\nwhat you found (results)\nwhat your results mean (significance)\nFinish with your conclusions/significance of your work\n\n\nwhat have you learned?\nhow have you contributed to the field?\nwhat would you do as the next step?\n\n\nGo back through your talk and make sure it “flows” in a logical order\nEdit, proofread, improve your slides.\n\n\nask other students in the group for feedback and incorporate it.\n\n\nPractice, practice, practice!\n\n\nget your timing right (it always takes longer than you think)\n\n\nRepeat steps 7 and 8 iteratively until you are happy with your presentation and feel confident in your delivery."
-  },
-  {
-    "objectID": "presentation.html#preparing-for-your-talk-checklist",
-    "href": "presentation.html#preparing-for-your-talk-checklist",
-    "title": "Presentations",
-    "section": "",
-    "text": "Think about exactly what you want to convey\n\n\ntell a story\nkeep it simple\nkeep the number of results you show small (≈3-4) and the message from each clear\n\n\nPrepare figures for your slides (the “backbone” of your talk)\n\n\n\n\n\n\n\nTip\n\n\n\nThe figures for your slides will rarely, if ever, be exatly the same figures you present in your thesis. You cannot convey as much information in a slide, so you should simplify figures for your talk such that they can be easily understood by your audience.\nPresenting too much data on a single slide can be overwhelming and your audience may disengage or read the slide instead of listening to you.\n\n\n\nIntroduction: think about what your audience needs to know (context) to understand your work\n\n\nwhat didn’t you know, at the beginning of your project?\nkeep it simple: the minimum to contextualise your story\n\n\nFor each experiment, explain (in this order):\nwhat you were trying to do (aim)\nhow you did it (method)\nwhat you found (results)\nwhat your results mean (significance)\nFinish with your conclusions/significance of your work\n\n\nwhat have you learned?\nhow have you contributed to the field?\nwhat would you do as the next step?\n\n\nGo back through your talk and make sure it “flows” in a logical order\nEdit, proofread, improve your slides.\n\n\nask other students in the group for feedback and incorporate it.\n\n\nPractice, practice, practice!\n\n\nget your timing right (it always takes longer than you think)\n\n\nRepeat steps 7 and 8 iteratively until you are happy with your presentation and feel confident in your delivery."
-  },
-  {
-    "objectID": "presentation.html#some-presentation-guidesresources",
-    "href": "presentation.html#some-presentation-guidesresources",
-    "title": "Presentations",
-    "section": "2 Some presentation guides/resources",
-    "text": "2 Some presentation guides/resources\n\nGiving a Scientific Presentation - Prepared by Dr Feeney and Dr Pritchard for BM432 in 2022\n\n07-01: Presentations - Intro\n07-02: Presentations - Content\n07-03: Presentations - Figures\n07-04: Presentations - Aesthetics\n07-05: Presentations - Slide Preparation\n07-06: Presentations - Delivery\n\nScientific presentations: a cheat sheet - Good general advice for presentations, and not just scientific presentations - LP\nTen Simple Rules for Making Good Oral Presentations - More good advice from the reliable “Ten Simple Rules…” series - LP"
-  },
-  {
     "objectID": "online_resources.html",
     "href": "online_resources.html",
     "title": "Online Resources",
@@ -138,6 +40,104 @@
     "title": "Online Resources",
     "section": "5 Charities and Other Support",
     "text": "5 Charities and Other Support\nWe all need help sometimes. And sometimes more than the university can provide directly. Just in case.\n\nCitizens Advice Scotland - Legal, money, health.\nGlasgow Helps - A central hub for finding the charity or organisation you need for support.\nGlasgow NE Foodbank - Food and nutrition.\nGlasgow NW Foodbank - Food and nutrition.\nGlasgow SE Foodbank - Food and nutrition.\nGlasgow SW Foodbank - Food and nutrition.\nMind - Mental health and wellbeing\nSamaritans Scotland - Mental health and wellbeing\nSAMH - Mental health and wellbeing\nShelter Scotland - Housing"
+  },
+  {
+    "objectID": "learning_resources.html",
+    "href": "learning_resources.html",
+    "title": "Learning Resources",
+    "section": "",
+    "text": "Bioinformatics, computational biology, and coding are skills that you can learn and hone through regular practice. There are many online resources, tutorials, and learning platforms that can help you develop these skills independently. This page collects some of those resources together as a place for you to begin exploring this area."
+  },
+  {
+    "objectID": "learning_resources.html#bioinformatics",
+    "href": "learning_resources.html#bioinformatics",
+    "title": "Learning Resources",
+    "section": "1 Bioinformatics",
+    "text": "1 Bioinformatics\n\nRosalind - A gamified series of structured problems that become progressively more difficult, and a good way to learn coding as well as bioinformatics - LP\nEMBL-EBI - Introductory bioinformatics material offered by the main European bioinformatics research centre - LP\nGalaxy - Training materials curated by the international Galaxy community - LP\nIBioIC Introduction to Bioinformatics - Materials for a course I presented in 2017-2018 - LP\nCoursera - Online courses in bioinformatics, collated by Coursera - LP\nEdX - Online courses in bioinformatics, collated by EdX - LP"
+  },
+  {
+    "objectID": "learning_resources.html#programming",
+    "href": "learning_resources.html#programming",
+    "title": "Learning Resources",
+    "section": "2 Programming",
+    "text": "2 Programming\n\n2.1 General\n\nSoftware Carpentry - “Software Carpentry has been teaching researchers the computing skills they need to get more done in less time and with less pain,” as the site says. I’m a fully-qualified SWC instructor with ten years’ experience, and it’s a great introduction to key concepts, covering Python and R - LP\nAdvent of Code - Yearly Christmas-themed puzzles that you can solve in any way you like - LP\nFree Code Camp - Free training in a number of areas - LP\nCodecademy - A range of free online training courses - LP\nSpaceTraders - Gamified learning through a web API - LP\nCodinGame - A gamified platform that supports learning to code in over 20 languages - LP\nCheckIO - Another gamified way to practice coding - LP\nCodeCombat - Another game-based way to learn and practice coding - LP\n\n\n\n2.2 Python\n\nRealPython - Many tutorials and other learning paths for Python - LP\nPyBites - Python coding challenges, and there are accompanying coaching and podcast materials - LP\nThe Flask Megatutorial - A thorough and well-paced Flask tutorial - LP\n[Python Programming and Numerical Methods] - Computers don’t always deal with numbers the way you might expect, and understanding what they actually do will help avoid problems = LP\n\n\n\n2.3 R\n\nWhat They Forgot to Teach You About R - Assuming they taught you anything about R at all, this is not a bad place to go next - LP\n\n\n\n2.4 SQL\n\nSQL Murder Mystery - Knowing SQL can be incredibly helpful in managing your data in bioinformatics (or any other field), and this is a fun way to learn new things - LP\n\n\n\n2.5 CSS\n\nCSS Grid Garden - CSS comes up an awful lot when developing applications or websites (as it did building this site!), and this is a nice way to understand how the grid layout works - LP\nFlexbox Froggy - Another CSS layout tool practice game, this time for the flexbox - LP\nFlexbox Zombies - As above but with added undead - LP\nCoding Fantasy - Learn Flexbox and Grid at the same time! - LP\nCSS Diner - Gamified CSS selector practice - LP\n\n\n\n2.6 JavaScript\n\nReact Megatutorial - A thorough introduction to the React framework - LP"
+  },
+  {
+    "objectID": "learning_resources.html#data-analysis-and-data-science",
+    "href": "learning_resources.html#data-analysis-and-data-science",
+    "title": "Learning Resources",
+    "section": "3 Data Analysis and Data Science",
+    "text": "3 Data Analysis and Data Science\n\nData Carpentry - A companion programme to Software Carpentry (and I am also a fully-qualified DC instructor). Again, it’s a great introduction to key concepts in Python and R - LP\nKaggle - Online data science courses - LP\nData Camp - A wide range of data science courses - LP\nDataQuest - Learn data science through a series of challenges - LP\nCoursera - Data science courses available through Coursera - LP\nEdX - A collection of online data science courses - LP"
+  },
+  {
+    "objectID": "learning_resources.html#other-computing-skills",
+    "href": "learning_resources.html#other-computing-skills",
+    "title": "Learning Resources",
+    "section": "4 Other Computing Skills",
+    "text": "4 Other Computing Skills\n\nPrinciples for Writing Clean Code - However you choose to learn to code, in whatever language, encountering and using these principles will make your life so much easier - LP\nHow Much Can Your Computer Do In A Second - Some things that seem like they might be hard on a computer are quite easy; some things that seems like they should be easy are actually hard. It’s worth gaining an intuition about the difference - LP\nCryptoHack - Learn modern cryptography while playing games - LP\nProject Euler - A series of mathematical problems to test your coding skills - LP\n\n\n4.1 Git\n\nOh My Git! - Gamified introduction to git - LP\nGitHub Minesweeper - Learn collaborative git project management with a bot - LP\nBitbucket git Tutorial - An introduction to git provided by Bitbucket - LP\nLearn git Branching - Interactive introduction to git branching - LP"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SIPBS CompBiol PDA Pages",
+    "section": "",
+    "text": "Welcome to the SIPBS CompBiol Group PDA pages!"
+  },
+  {
+    "objectID": "index.html#what-is-this-site-for",
+    "href": "index.html#what-is-this-site-for",
+    "title": "SIPBS CompBiol PDA Pages",
+    "section": "What is this site for?",
+    "text": "What is this site for?\nThis site is intended to provide a persistent repository of information to support you through Strathclyde’s Personal Development Programme for AY2023-24.\n\n\n\n\n\n\nWarning\n\n\n\nThis site is a secondary resource!. Please consult with the official course MyPlace links for submission dates, deadlines, and other timings. Use this site in conjunction with the official information at the links below.\n\nBM110: Being a Biomolecular Scientist 1\nBM214: Being a Biomolecular Scientist 2\nBM327: Being a Biomolecular Scientist 3\nBM4: Biomolecular Sciences 4th Year\n\n\n\nInformation is organised under headings:\n\nPDA Info links to a calendar with the timings of family and 1:1 meetings.\nResources has a collection of links and articles to help support you in your personal development"
+  },
+  {
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "SIPBS CompBiol PDA Pages",
+    "section": "Getting Started",
+    "text": "Getting Started\n\nPlease do keep the Key Dates in mind as you go through the year.\nThe Online Resources page has links to resources covering health and wellbeing, finances, careers advice and other useful things.\nThe Time Management page has links and advice that may help you manage your time so that you can get some work:life balance, and avoid last-minute stresses\n\nWe also provide advice on giving scientific presentations - an important component of several modules - and Science Communication in general. While tailored towards the BM432 project, the advice is quite general and we hope it will be helpful beyond your course."
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "SIPBS CompBiol PDA Pages",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThese pages were originally developed in 2023 by Dr Leighton Pritchard and Dr Morgan Feeney, and are currently maintained by, Dr Leighton Pritchard.\nThese materials are © University of Strathclyde, and licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Linked and embedded materials are governed by their own licenses. I assume that all external materials used or embedded here are covered under the educational fair use policy. If this is not the case and any material displayed here violates copyright, please let me know and I will remove it."
+  },
+  {
+    "objectID": "presentation.html",
+    "href": "presentation.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Think about exactly what you want to convey\n\n\ntell a story\nkeep it simple\nkeep the number of results you show small (≈3-4) and the message from each clear\n\n\nPrepare figures for your slides (the “backbone” of your talk)\n\n\n\n\n\n\n\nTip\n\n\n\nThe figures for your slides will rarely, if ever, be exatly the same figures you present in your thesis. You cannot convey as much information in a slide, so you should simplify figures for your talk such that they can be easily understood by your audience.\nPresenting too much data on a single slide can be overwhelming and your audience may disengage or read the slide instead of listening to you.\n\n\n\nIntroduction: think about what your audience needs to know (context) to understand your work\n\n\nwhat didn’t you know, at the beginning of your project?\nkeep it simple: the minimum to contextualise your story\n\n\nFor each experiment, explain (in this order):\nwhat you were trying to do (aim)\nhow you did it (method)\nwhat you found (results)\nwhat your results mean (significance)\nFinish with your conclusions/significance of your work\n\n\nwhat have you learned?\nhow have you contributed to the field?\nwhat would you do as the next step?\n\n\nGo back through your talk and make sure it “flows” in a logical order\nEdit, proofread, improve your slides.\n\n\nask other students in the group for feedback and incorporate it.\n\n\nPractice, practice, practice!\n\n\nget your timing right (it always takes longer than you think)\n\n\nRepeat steps 7 and 8 iteratively until you are happy with your presentation and feel confident in your delivery."
+  },
+  {
+    "objectID": "presentation.html#preparing-for-your-talk-checklist",
+    "href": "presentation.html#preparing-for-your-talk-checklist",
+    "title": "Presentations",
+    "section": "",
+    "text": "Think about exactly what you want to convey\n\n\ntell a story\nkeep it simple\nkeep the number of results you show small (≈3-4) and the message from each clear\n\n\nPrepare figures for your slides (the “backbone” of your talk)\n\n\n\n\n\n\n\nTip\n\n\n\nThe figures for your slides will rarely, if ever, be exatly the same figures you present in your thesis. You cannot convey as much information in a slide, so you should simplify figures for your talk such that they can be easily understood by your audience.\nPresenting too much data on a single slide can be overwhelming and your audience may disengage or read the slide instead of listening to you.\n\n\n\nIntroduction: think about what your audience needs to know (context) to understand your work\n\n\nwhat didn’t you know, at the beginning of your project?\nkeep it simple: the minimum to contextualise your story\n\n\nFor each experiment, explain (in this order):\nwhat you were trying to do (aim)\nhow you did it (method)\nwhat you found (results)\nwhat your results mean (significance)\nFinish with your conclusions/significance of your work\n\n\nwhat have you learned?\nhow have you contributed to the field?\nwhat would you do as the next step?\n\n\nGo back through your talk and make sure it “flows” in a logical order\nEdit, proofread, improve your slides.\n\n\nask other students in the group for feedback and incorporate it.\n\n\nPractice, practice, practice!\n\n\nget your timing right (it always takes longer than you think)\n\n\nRepeat steps 7 and 8 iteratively until you are happy with your presentation and feel confident in your delivery."
+  },
+  {
+    "objectID": "presentation.html#some-presentation-guidesresources",
+    "href": "presentation.html#some-presentation-guidesresources",
+    "title": "Presentations",
+    "section": "2 Some presentation guides/resources",
+    "text": "2 Some presentation guides/resources\n\nGiving a Scientific Presentation - Prepared by Dr Feeney and Dr Pritchard for BM432 in 2022\n\n07-01: Presentations - Intro\n07-02: Presentations - Content\n07-03: Presentations - Figures\n07-04: Presentations - Aesthetics\n07-05: Presentations - Slide Preparation\n07-06: Presentations - Delivery\n\nScientific presentations: a cheat sheet - Good general advice for presentations, and not just scientific presentations - LP\nTen Simple Rules for Making Good Oral Presentations - More good advice from the reliable “Ten Simple Rules…” series - LP"
+  },
+  {
+    "objectID": "scicomm.html",
+    "href": "scicomm.html",
+    "title": "Science Communication",
+    "section": "",
+    "text": "Science Communication Resources - Wide-ranging advice about science communication from a US non-profit - LP\nTen simple rules for scientists engaging in science communication - One of the many great “ten simple rules” articles from PLoS Comp. Biol. - LP\nTen simple rules for drawing scientific comics - Unleash your budding Gary Larson - LP\nTen Simple Rules for Effective Online Outreach - Broader in scope than just your project, but worth keeping in mind if you’re looking at a career in science - LP\nHow to Eliminate Jargon From Science Communication - I don’t believe jargon can be entirely eliminated (it’s precise language), but there’s no reason to be obscure - LP"
+  },
+  {
+    "objectID": "scicomm.html#science-communication-resources",
+    "href": "scicomm.html#science-communication-resources",
+    "title": "Science Communication",
+    "section": "",
+    "text": "Science Communication Resources - Wide-ranging advice about science communication from a US non-profit - LP\nTen simple rules for scientists engaging in science communication - One of the many great “ten simple rules” articles from PLoS Comp. Biol. - LP\nTen simple rules for drawing scientific comics - Unleash your budding Gary Larson - LP\nTen Simple Rules for Effective Online Outreach - Broader in scope than just your project, but worth keeping in mind if you’re looking at a career in science - LP\nHow to Eliminate Jargon From Science Communication - I don’t believe jargon can be entirely eliminated (it’s precise language), but there’s no reason to be obscure - LP"
   },
   {
     "objectID": "software.html",
@@ -203,17 +203,17 @@
     "text": "2 Time and Project Management: Resources\n\nTrello\n\nA widely-used project management tool, but tailored towards teams. It probably does more than you need - LP\n\nAsana\n\nSeems to be similar to Trello. I haven’t used it, myself - LP\n\nBenchling\n\nAn electronic lab notebook platform that is widely used in industry. Academic use is free, and having it on your CV can be an advantage, so I’m told - LP\n\nPomodoro Timer\n\nFree timer for Pomodoro. Just does the timing, which may be all you need - LP\n\nBeFocused\n\nPomodoro timer with additional project management and time categorisation features. It’s the tool I use - LP\n\nForest\n\nA focusing app. I hear good things but I don’t use it - LP\n\nEverNote\n\nNote-taking app. I know people who love it, but it didn’t grab me - LP"
   },
   {
-    "objectID": "scicomm.html",
-    "href": "scicomm.html",
-    "title": "Science Communication",
+    "objectID": "calendar.html",
+    "href": "calendar.html",
+    "title": "PDA Key Dates",
     "section": "",
-    "text": "Science Communication Resources - Wide-ranging advice about science communication from a US non-profit - LP\nTen simple rules for scientists engaging in science communication - One of the many great “ten simple rules” articles from PLoS Comp. Biol. - LP\nTen simple rules for drawing scientific comics - Unleash your budding Gary Larson - LP\nTen Simple Rules for Effective Online Outreach - Broader in scope than just your project, but worth keeping in mind if you’re looking at a career in science - LP\nHow to Eliminate Jargon From Science Communication - I don’t believe jargon can be entirely eliminated (it’s precise language), but there’s no reason to be obscure - LP"
+    "text": "Warning\n\n\n\nThis calendar is a secondary resource!. Please consult with the official course MyPlace links for submission dates, deadlines, and other timings. The official information can be found at the links below.\n\nBM110: Being a Biomolecular Scientist 1\nBM214: Being a Biomolecular Scientist 2\nBM327: Being a Biomolecular Scientist 3\nBM432: Being a Biomolecular Scientist 4"
   },
   {
-    "objectID": "scicomm.html#science-communication-resources",
-    "href": "scicomm.html#science-communication-resources",
-    "title": "Science Communication",
-    "section": "",
-    "text": "Science Communication Resources - Wide-ranging advice about science communication from a US non-profit - LP\nTen simple rules for scientists engaging in science communication - One of the many great “ten simple rules” articles from PLoS Comp. Biol. - LP\nTen simple rules for drawing scientific comics - Unleash your budding Gary Larson - LP\nTen Simple Rules for Effective Online Outreach - Broader in scope than just your project, but worth keeping in mind if you’re looking at a career in science - LP\nHow to Eliminate Jargon From Science Communication - I don’t believe jargon can be entirely eliminated (it’s precise language), but there’s no reason to be obscure - LP"
+    "objectID": "calendar.html#calendar",
+    "href": "calendar.html#calendar",
+    "title": "PDA Key Dates",
+    "section": "1 Calendar",
+    "text": "1 Calendar\nThis is an indicative calendar for PDP activities in AY2023-24.\n\n1.1 Semester 1\n\n\n\n\n\n\n\n\n\nWeek\nDate/Time\nActivity\nResponsibility\n\n\n\n\nInduction Week\nThu 14/9\nAcademic Family Meeting\nstudents, LP\n\n\n5\nFri 20/10\nYear 1: Upload “EXPLORE I just don’t know what to do with myself.” to SPIDER\nstudent\n\n\n5\nFri 20/10\nYear 2: Upload “EXPLORE I just don’t know what to do with myself.” to SPIDER\nstudent\n\n\n5\nFri 20/10\nYear 3: Upload “PLAN: Gaining and Recognising Your Experience. Complete the Goal-setting and Action Planning activity in section 4.9” to SPIDER\nstudent\n\n\n5\nFri 20/10\nYear 4: Upload “EXPLORE I just don’t know what to do with myself.” to SPIDER\nstudent\n\n\n5\nFri 20/10\nComplete ePDP sections and book a 1:1 meeting slot at SPIDER\nstudent\n\n\n6\nw/b Mon 23/10\n1:1 PDA Meetings\nLP, students\n\n\n\n\n\n1.2 Semester 2\n\n\n\n\n\n\n\n\n\nWeek\nDate/Time\nActivity\nResponsibility\n\n\n\n\n4\nFri 9/2\nYear 1: Upload the completed Skills Audit and worksheet to SPIDER\nstudent\n\n\n4\nFri 9/2\nYear 2: Upload the completed worksheet on Recognising your Skills to SPIDER\nstudent\n\n\n4\nFri 9/2\nYear 3: Write a short report summarising the research you have done about the employer/organisation your CV & covering letter are tailored to, and upload to SPIDER\nstudent\n\n\n4\nFri 9/2\nYear 4: Write a short report summarising the research you have done about the employer/organisation your CV & covering letter are tailored to, and upload to SPIDER\nstudent\n\n\n4\nFri 9/2\nComplete ePDP sections and book a 1:1 meeting slot at SPIDER\nstudent\n\n\n5\nw/b Mon 12/2\n1:1 PDA Meetings\nLP, students"
   }
 ]
