@@ -43,6 +43,8 @@ Information is organised under headings:
 
 We also provide advice on [giving scientific presentations](presentation.qmd) - an important component of several modules - and [Science Communication](scicomm.qmd) in general. While tailored towards the BM432 project, the advice is quite general and we hope it will be helpful beyond your course.
 
+Some of you have asked in 1:1 meetings about how to find support or online tutorials to develop skills in data analysis, statistics, and bioinformatics. I've compiled a set of links that might be useful for this on the [Learning Resources](learning_resources.qmd) page.
+
 ## Acknowledgements
 
 These pages were originally developed in 2023 by Dr {{< var admin.name >}} and Dr Morgan Feeney, and are currently maintained by, [Dr {{< var admin.name >}}](%7B%7B%3C%20var%20admin.homepage%20%3E%7D%7D).
