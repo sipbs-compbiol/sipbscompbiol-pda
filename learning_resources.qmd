@@ -49,7 +49,7 @@ Bioinformatics, computational biology, and coding are skills that you can learn 
 - [RealPython](https://realpython.com) - _Many tutorials and other learning paths for Python - LP_
 - [PyBites](https://codechalleng.es/) - _Python coding challenges, and there are accompanying coaching and podcast materials - LP_
 - [The Flask Megatutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - _A thorough and well-paced Flask tutorial - LP_
-- [Python Programming and Numerical Methods] - _Computers don't always deal with numbers the way you might expect, and understanding what they actually do will help avoid problems = LP_
+- [Python Programming and Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) - _Computers don't always deal with numbers the way you might expect, and understanding what they actually do will help avoid problems = LP_
 
 ### R
 
