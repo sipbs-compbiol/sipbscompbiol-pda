@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/online_resources.html</loc>
-    <lastmod>2023-10-25T15:41:54.614Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/learning_resources.html</loc>
-    <lastmod>2023-10-25T15:41:51.842Z</lastmod>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/calendar.html</loc>
+    <lastmod>2023-10-25T16:05:02.939Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/index.html</loc>
-    <lastmod>2023-10-25T15:41:49.558Z</lastmod>
+    <lastmod>2023-10-25T16:05:00.251Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/learning_resources.html</loc>
+    <lastmod>2023-10-25T16:04:57.471Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/presentation.html</loc>
-    <lastmod>2023-10-25T15:41:47.078Z</lastmod>
+    <lastmod>2023-10-25T16:04:54.603Z</lastmod>
   </url>
   <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/scicomm.html</loc>
-    <lastmod>2023-10-25T15:41:45.502Z</lastmod>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/online_resources.html</loc>
+    <lastmod>2023-10-25T16:04:52.895Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/software.html</loc>
-    <lastmod>2023-10-25T15:41:48.350Z</lastmod>
+    <lastmod>2023-10-25T16:04:55.995Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/time_management.html</loc>
-    <lastmod>2023-10-25T15:41:50.634Z</lastmod>
+    <lastmod>2023-10-25T16:04:58.871Z</lastmod>
   </url>
   <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/calendar.html</loc>
-    <lastmod>2023-10-25T15:41:53.086Z</lastmod>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/scicomm.html</loc>
+    <lastmod>2023-10-25T16:05:01.519Z</lastmod>
   </url>
 </urlset>
