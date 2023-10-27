@@ -62,6 +62,7 @@ Presenting too much data on a single slide can be overwhelming and your audience
 
 ## Some presentation guides/resources
 
+- [How to give a better-than-average talk](https://smallpotatoes.paulbloom.net/p/how-to-give-a-better-than-average) - _A view from a psychology professor._
 - [Giving a Scientific Presentation](https://sipbs-compbiol.github.io/BM432/notebooks/07-01-presentations-intro.html) - _Prepared by Dr Feeney and Dr Pritchard for BM432 in 2022_
   - [07-01: Presentations - Intro](https://sipbs-compbiol.github.io/BM432/notebooks/07-01-presentations-intro.html)
   - [07-02: Presentations - Content](https://sipbs-compbiol.github.io/BM432/notebooks/07-02-presentations-content.html)
