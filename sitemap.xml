@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/calendar.html</loc>
-    <lastmod>2023-10-25T16:05:02.939Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/index.html</loc>
-    <lastmod>2023-10-25T16:05:00.251Z</lastmod>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/online_resources.html</loc>
+    <lastmod>2023-10-27T16:58:44.340Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/learning_resources.html</loc>
-    <lastmod>2023-10-25T16:04:57.471Z</lastmod>
+    <lastmod>2023-10-27T16:58:41.248Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/index.html</loc>
+    <lastmod>2023-10-27T16:58:38.432Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/presentation.html</loc>
-    <lastmod>2023-10-25T16:04:54.603Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/online_resources.html</loc>
-    <lastmod>2023-10-25T16:04:52.895Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/software.html</loc>
-    <lastmod>2023-10-25T16:04:55.995Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/time_management.html</loc>
-    <lastmod>2023-10-25T16:04:58.871Z</lastmod>
+    <lastmod>2023-10-27T16:58:35.643Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/scicomm.html</loc>
-    <lastmod>2023-10-25T16:05:01.519Z</lastmod>
+    <lastmod>2023-10-27T16:58:33.907Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/software.html</loc>
+    <lastmod>2023-10-27T16:58:37.048Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/time_management.html</loc>
+    <lastmod>2023-10-27T16:58:39.824Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/calendar.html</loc>
+    <lastmod>2023-10-27T16:58:42.692Z</lastmod>
   </url>
 </urlset>
