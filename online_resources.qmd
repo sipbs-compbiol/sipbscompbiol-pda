@@ -99,7 +99,7 @@ It's a pain to have to go back to the original material and read through it all/
 
 It can be difficult moving from writing short, concise answers to questions, to longer, academic essay-style writing. There are large numbers of sites out there offering advice (see below), and some key points they have in common include:
 
-- An essay lays out an *argument* it's meant to convince the reader of your view.
+- An essay lays out an *argument* that's meant to convince the reader of your view.
 - You can only really write about one idea at a time in a sentence or paragraph.
 - You need to present your ideas in an order that makes sense to the reader, so that they understand your argument.
   - Your ideas should lead on from one to the next.
@@ -121,7 +121,7 @@ I found mind-mapping useful when I was a student. It let me link topics and idea
 
 - [Mind Mapping](https://www.vanderbilt.edu/bold/mind-mapping/) - _A guide, with links to tools, from Vanderbilt University._
 - [Mind Mapping](https://canvas.hull.ac.uk/courses/610/pages/mind-mapping) - _How to use Mind-Mapping, from the University of Hull._
-- [Minmapping](https://www.brookes.ac.uk/students/academic-development/online-resources/mindmapping/) - _Guidance and links, at Oxford Brookes University._
+- [Mindmapping](https://www.brookes.ac.uk/students/academic-development/online-resources/mindmapping/) - _Guidance and links, at Oxford Brookes University._
 
 ## Careers
 
