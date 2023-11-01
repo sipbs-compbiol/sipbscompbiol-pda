@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "SIPBS CompBio PDA Pages"
+  title: "SIPBS CompBiol PDA Pages"
   site-url: https://sipbs-compbiol.github.io/sipbscompbiol-pda
   navbar:
     logo: ./assets/images/sipbs_compbio.png
