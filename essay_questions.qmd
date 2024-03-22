@@ -1,0 +1,137 @@
+---
+title: "Exam Essay Questions"
+image: ./assets/images/essay_question.jpg
+description: |
+ Advice for answering essay questions in exams
+number-sections: true
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+html:
+  anchor-sections: true
+---
+
+::: {.callout-caution}
+This page, and any articles that come from external sources, are **_opinions_**. You will find a range of opinions within the group, as well as across markers and lecturers. **Discussion is encouraged**!
+:::
+
+## Why we set essay questions
+
+::: { .callout-tip }
+When approaching any assessment, it can be worth empathising with the examiner and asking yourself: "what is it that they want to see from me when I answer this question?"
+:::
+
+We don't choose question types randomly, as educators. We select questions that we hope will best achieve an objective - whether to diagnose misunderstanding, or to assess recall, understanding, or ability to reason. For example, a well-designed multiple choice question (MCQ) might have one correct answer and three plausible answers that can each be reached by making a particular kind of mistake (addition instead of subtraction, misreading the question, and so on). This allows us to identify which parts of the course materials might need to be clearer, or which concepts are most difficult to pick up.
+
+When we set essay questions, we are looking for you to show us you can do certain things. Some of these are course-specific but others are more general and, if you practice them for one course, they will be useful again.
+
+::: { .callout-important collapse="true" }
+## What we want you to show us in an essay question
+
+1. That you recall and understand basic facts and concepts from the course
+2. That you can make connections and see relationships (maybe contrasts and similarities) between concepts and facts from the course
+3. That you can **synthesise** facts and concepts from the course to support (**argue for**) a particular result or outcome
+4. That you can **justify** a statement or outcome using facts and concepts from the course
+5. That you can use facts and concepts from the course to **analyse** and **criticise** a statment or outcome
+:::
+
+::: { .callout-warning collapse="true"}
+## University is not school
+
+At school you may have written essays where the focus is on being able to recall facts, ideally in the correct order. **University essays are different**.
+
+At university we're more interested in how you construct an _argument_ - a logical series of steps, grounded in fact, that lead towards a well-founded conclusion or outcome. There will be _some_ marks for remembering things, but we want to see you **think**. 
+:::
+
+## How to do well at essay questions
+
+### Read the question
+
+::: { .callout-tip }
+**Then read it again to be sure you read it right the first time.**
+:::
+
+When we set essay questions, we will use specific words to ask for specific kinds of response. If you give a kind of response we're not looking for, you may not receive full credit for your answer. So **read the question** (have I said that?) to be sure that you know what we want.
+
+::: { .callout-important collapse="true" }
+## How you know what we want from your answer: some key words
+
+- **define**: we're asking you to explain the meaning of something
+- **explain**: we're asking you to give a logical set of reasons why an outcome follows from something else
+- **illustrate**: we're asking you for at least one example that supports your writing
+- **summarise**: we're asking for a high-level account (no deep detail) of the subject
+- **compare**: explain how two or more things are similar and how they are different
+- **contrast**: similar to compare, but with more focus on differences
+- **justify**: give reasons that support one view or outcome (and maybe exclude others)
+- **evaluate**: assess a subject and explain your view on whether it is good/bad/indifferent
+:::
+
+### Organise your time
+
+Look at the number of marks available for each question, or each part of the question. This is a **huge** clue to how much we expect you to write, or how detailed we expect your answer to be. If the essay has three sections broken into 20, 20, and 20 marks you should spend your time more evenly than if it is broken into 40, 10, and 10.
+
+### Plan your answer before you write
+
+If you dive straight in to writing your answer, it is easy to get lost in the writing and forget where you were going - or realise too late that there was an important point you forgot to make. The best way not to get into this kind of tangle is to plan your answer before you start.
+
+::: { .callout-tip }
+If you plan your answer _on the exam paper_ but don't get around to writing it up in nice, neat paragraph form, **you may still get credit for the reasoning/facts stated**. The plan shows you know _how_ to answer the question.
+
+You might want to brainstorm - ideas in your plan but not in the writing might still get credit. Having many ideas written down might make it easier to see connections.
+:::
+
+::: { .callout-caution }
+You'll only have time for one draft, and it won't be perfect - so don't sweat it.
+:::
+
+The way you approach your plan may depend on the length of the expected answer.
+
+#### Short answer question
+
+Usually only needs a couple of sentences, and no more than a paragraph. Chances are you have to do little more than make a general identifying statement or definition, and then provide an example to illustrate it. Spend a few seconds noting down key words or ideas, but if you're stuck skip it and come back later. 
+
+#### Longer essay questions
+
+::: { .callout-important }
+You will need a plan, so allow yourself sufficient time to make one. **Your answer will be better if you make a plan.**
+:::
+
+1. Start, if possible, by noting down what your _final point_ will be in the essay. This is what you will be working to in your writing, and it will help to have a focus. Try and make it as clear and simple as you can.
+2. If you have the final point you want to reach, then it may be clear to you what the point should be _immediately before the final point_ - sometimes it's easier to build the logic back from the conclusion you want to justify.
+3. Try to link the points you are making to each other in your plan to build a logical argument. If you can't see a clear link to a point then you may be better off not including it, as it may not support your argument well.
+4. If you can, double-space your writing to leave room for writing in ideas or details that occur to you later in the answer process.
+5. Sometimes a picture really is worth a thousand words. If you can't explain something very well in words, but could do it with a graph, sketch a graph and refer to it in your answer.
+
+::: { .callout-tip }
+Don't pad your answer to fill space. You don't get marks for knowing things that weren't part of the original question.
+:::
+
+::: { .callout-important }
+**Watch the clock!**
+
+Allocate time you will spend on a question and when you hit your limit, move on. You will gain most of your marks quickly. Spending too much time on a question is rarely as useful as moving on to a new set of marks in a different question.
+:::
+
+## You will probably not guess the essay question
+
+It is possible to phrase essay questions on the same topic to ask for quite different activities (e.g. _compare_ or _explain_), or to present examples you haven't seen before. The best way to be prepared for questions like these is to know the topic well, so you can construct an argument no matter what form the question takes. It is possible to learn an essay like a script, but you'd have to learn a lot of them to cover all the questions we could ask.
+
+::: { .callout-tip }
+"Learning an essay" is a mug's game and prone to failure if you guess wrong. It's much easier to learn the course material.
+:::
+
+## Summary
+
+- We set essay questions so you can show us your ability to _synthesise_ the course material to _construct an argument_, demonstrating that you _understand how it all fits together_.
+- In an exam situation **read the question** and _read it again_ so you know what we're asking for
+- _Plan your time_ and _prioritise_ high-scoring parts of the question
+- _Plan your answer_ for longer questions

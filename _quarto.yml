@@ -23,6 +23,8 @@ website:
             href: presentation.qmd
           - text: "Science Communication"
             href: scicomm.qmd
+          - text: "Exam Essay Questions"
+            href: essay_questions.qmd
           - text: "Learning Resources"
             href: learning_resources.qmd
       - icon: github
