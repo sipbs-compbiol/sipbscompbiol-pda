@@ -38,21 +38,21 @@ This is an **indicative** calendar for PDP activities in {{< var ay >}}.
 
 | Week  | Date/Time    | Activity                               | Responsibility |
 | ----- | :----------- | :------------------------------------- | :------------: |
-| **Induction Week** | **Thu 14/9** | Academic Family Meeting | **students, LP** |
-| **5** | **Fri 20/10** | **Year 1:** Upload "EXPLORE I just don’t know what to do with myself." to [SPIDER]({{< var spider.epdp >}}) | **student** |
-| **5** | **Fri 20/10** | **Year 2:** Upload "EXPLORE I just don’t know what to do with myself." to [SPIDER]({{< var spider.epdp >}}) | **student** |
-| **5** | **Fri 20/10** | **Year 3:** Upload "PLAN: Gaining and Recognising Your Experience. Complete the Goal-setting and Action Planning activity in section 4.9" to [SPIDER]({{< var spider.epdp >}}) | **student** |
-| **5** | **Fri 20/10** | **Year 4:** Upload "EXPLORE I just don’t know what to do with myself." to [SPIDER]({{< var spider.epdp >}}) | **student** |
-| **5** | **Fri 20/10** | Complete [ePDP sections]({{< var spider.epdp >}}) and book a 1:1 meeting slot at [SPIDER]({{< var spider.booking >}}) | **student** |
-| **6** | w/b Mon 23/10 | 1:1 PDA Meetings | **LP, students** |
+| **Induction Week** | **Thu 19/9** | Academic Family Meeting | **students, LP** |
+| **5** | **Fri 18/10** | **Year 1:** Upload "EXPLORE I just don’t know what to do with myself." to [SPIDER]({{< var spider.epdp >}}) | **student** |
+| **5** | **Fri 18/10** | **Year 2:** Upload "EXPLORE I just don’t know what to do with myself." to [SPIDER]({{< var spider.epdp >}}) | **student** |
+| **5** | **Fri 18/10** | **Year 3:** Upload "PLAN: Gaining and Recognising Your Experience. Complete the Goal-setting and Action Planning activity in section 4.9" to [SPIDER]({{< var spider.epdp >}}) | **student** |
+| **5** | **Fri 18/10** | **Year 4:** Upload "EXPLORE I just don’t know what to do with myself." to [SPIDER]({{< var spider.epdp >}}) | **student** |
+| **5** | **Fri 18/10** | Complete [ePDP sections]({{< var spider.epdp >}}) and book a 1:1 meeting slot at [SPIDER]({{< var spider.booking >}}) | **student** |
+| **6** | w/b Mon 21/10 ? | 1:1 PDA Meetings | **LP, students** |
 
 ### Semester 2
 
 | Week  | Date/Time    | Activity                               | Responsibility |
 | ----- | :----------- | :------------------------------------- | :------------: |
-| **4** | **Fri 9/2** | **Year 1:** Upload the completed Skills Audit and worksheet to [SPIDER]({{< var spider.epdp >}}) | **student** |
-| **4** | **Fri 9/2** | **Year 2:** Upload the completed worksheet on Recognising your Skills to [SPIDER]({{< var spider.epdp >}}) | **student** |
-| **4** | **Fri 9/2** | **Year 3:** Write a short report summarising the research you have done about the employer/organisation your CV & covering letter are tailored to, and upload to [SPIDER]({{< var spider.epdp >}}) | **student** |
-| **4** | **Fri 9/2** | **Year 4:** Write a short report summarising the research you have done about the employer/organisation your CV & covering letter are tailored to, and upload to [SPIDER]({{< var spider.epdp >}}) | **student** |
-| **4** | **Fri 9/2** | Complete [ePDP sections]({{< var spider.epdp >}}) and book a 1:1 meeting slot at [SPIDER]({{< var spider.booking >}}) | **student** |
-| **5** | w/b Mon 12/2 | 1:1 PDA Meetings | **LP, students** |
+| **4** | **Fri 7/2** | **Year 1:** Upload the completed Skills Audit and worksheet to [SPIDER]({{< var spider.epdp >}}) | **student** |
+| **4** | **Fri 7/2** | **Year 2:** Upload the completed worksheet on Recognising your Skills to [SPIDER]({{< var spider.epdp >}}) | **student** |
+| **4** | **Fri 7/2** | **Year 3:** Write a short report summarising the research you have done about the employer/organisation your CV & covering letter are tailored to, and upload to [SPIDER]({{< var spider.epdp >}}) | **student** |
+| **4** | **Fri 7/2** | **Year 4:** Write a short report summarising the research you have done about the employer/organisation your CV & covering letter are tailored to, and upload to [SPIDER]({{< var spider.epdp >}}) | **student** |
+| **4** | **Fri 7/2** | Complete [ePDP sections]({{< var spider.epdp >}}) and book a 1:1 meeting slot at [SPIDER]({{< var spider.booking >}}) | **student** |
+| **5** | w/b Mon 10/2 ? | 1:1 PDA Meetings | **LP, students** |
