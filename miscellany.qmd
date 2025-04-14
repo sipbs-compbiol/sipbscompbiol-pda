@@ -57,6 +57,10 @@ This page, and any articles that come from external sources, are **_opinions_**.
 
 ## Resilience
 
+### _Against Optimization_, by Brian Klaas (Substack) [(link)](https://www.forkingpaths.co/p/against-optimization){target="_blank"}
+
+> "What one person mistakes as inefficiency may actually be resilience. Rather than a demon to be slayed by a McKinsey exorcism, social slack is required for robustness. From modern social systems to our individual lives, we are over-optimized, courting disaster because we are deliberately slicing away the sinews that make ourselves and our world sturdier."
+
 ### _How to be more resilient_, by Erik Vance (New York Times) [(link)](vance.html){target="_blank"}
 
 > "I called a few experts to find out how I can become tougher. What I discovered was that my view of resilience was all wrong."
