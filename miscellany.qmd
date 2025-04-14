@@ -1,0 +1,96 @@
+---
+title: "Miscellany"
+image: ./assets/images/miscellany.jpg
+description: |
+ A bunch of articles that I wish I'd read when I was younger
+number-sections: true
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+html:
+  anchor-sections: true
+---
+
+::: {.callout-caution}
+This page, and any articles that come from external sources, are **_opinions_**. You will find a range of opinions within the group, as well as across articles like these. **Discussion is encouraged**!
+:::
+
+## Careers
+
+### _The worst advice parents can give first-year students_, by Ezekiel J. Emanual (The Atlantic) [(link)](){targe="_blank"}
+
+> "[Parents] often think in too short of a timeframe, focusing on the first job out of school and its starting salary. But students entering college today will likely work until they are about 70 years old, and probably live beyond 90—retiring around 2075 and perhaps living to see the next century. If you know what the best, most rewarding, and most fulfilling careers will be over that time span, you have extraordinary clairvoyant powers."
+
+## Productivity
+
+### _3 productivity tips for the restless (like me)_, by Paul Bloom (Substack) [(link)](https://smallpotatoes.paulbloom.net/p/three-productivity-tips-for-the-restless){target="_blank"}
+
+> "All of these writers are assuming that the problem has to do with stopping. This has never been an issue for me! I’ve always found the difficulty is, first, starting, and then, keeping going."
+
+1. Work every morning, right when you wake up
+2. Then, six-minute bursts
+3. Know thyself
+
+### _Are we too impatient to be intelligent?_, by Rory Sutherland (Behavioral Scientist) [(link)](https://behavioralscientist.org/are-we-too-impatient-to-be-intelligent/){target="_blank"}
+
+> "We also regard time as a kind of commodity, as if it’s fungible, as if 10 blocks of 10 minutes is the same as one chunk of 100 minutes. In human terms, this is absolutely not true. 'The mere consciousness of an engagement will sometimes worry a whole day.' That’s Charles Dickens. In other words, if you try and break up your day into lots of little chunks of time, your productivity is massively destroyed even though the time available is pretty much notionally the same."
+
+### _Sort out your life! 100 tiny tricks to help with everything_, by Emma Beddington (The Guardian) [(link)](https://www.theguardian.com/lifeandstyle/article/2024/sep/03/sort-out-your-life-100-tiny-tricks-to-help-with-everything-from-digital-overwhelm-to-lumpy-sugar-and-unpaid-bills){target="_blank"}
+
+> "The start of the academic year makes everyone want to turn over a new leaf, to work harder and smarter; to be better. None of us has the whole answer but everyone has a tiny thing that works for them, and this list is based on the hope that some of those tiny things might work for others too"
+
+- Build in travel slack
+- Decide once
+- Trick yourself into hydration
+- Use phone reminders
+- Say no quickly
+- Accept you’ll never get your life together – and that’s OK
+
+## Resilience
+
+### _Against Optimization_, by Brian Klaas (Substack) [(link)](https://www.forkingpaths.co/p/against-optimization){target="_blank"}
+
+> "What one person mistakes as inefficiency may actually be resilience. Rather than a demon to be slayed by a McKinsey exorcism, social slack is required for robustness. From modern social systems to our individual lives, we are over-optimized, courting disaster because we are deliberately slicing away the sinews that make ourselves and our world sturdier."
+
+### _How to be more resilient_, by Erik Vance (New York Times) [(link)](vance.html){target="_blank"}
+
+> "I called a few experts to find out how I can become tougher. What I discovered was that my view of resilience was all wrong."
+
+1. Identify what brings you meaning
+2. Understand that no-one is an island
+3. Find what keeps you balanced
+
+### _Two stupid facts that rule the world_, by Adam Mastroianni (Substack) [(link)](https://www.experimental-history.com/p/two-stupid-facts-that-rule-the-world){target="_blank"}
+
+> "[Creating something] is like climbing a mountain and then telling people what you saw up there, except the mountain is in your head. Climbing 10% of the mountain is pretty easy and lots of people do it; climbing all the way to the top is hard and almost no one does it. That’s why climbing 10% of the mountain ten times is not as useful as climbing to the top once."
+
+## What's the point?
+
+### _Three lessons for living well, from the dying_, by Jancee Dunn (New York Times) [(link)](dunn.html){target="_blank"}
+
+> "I asked Dr. Jackson and other palliative and hospice care experts about what they’ve learned from patients. They offered advice that you can apply to your life, from those at the end of theirs."
+
+- Find joy in the ordinary
+- Don't fret over the small stuff
+- Consider what you've left unresolved
+
+### _How to feel bad and be wrong_, by Adam Mastroianni (Substack) [(link)](https://www.experimental-history.com/p/how-to-feel-bad-and-be-wrong){target="_blank"}
+
+> "I have to realize that I’m the kind of person who will, by default, spend 90 minutes deciding which movie to watch and 9 seconds deciding what I want out of life. I gotta ask myself: if I’m busting my ass from sunup to sundown, what am I hoping for in return? A thoroughly busted ass?"
+
+### _The bluetooth test and other keyholes to the soul_, by Adam Mastroianni (Substack) [(link)](https://www.experimental-history.com/p/the-bluetooth-test-and-other-keyholes){target="_blank"}
+
+> "Extreme busyness is a form of selfishness. When you’re running at 110% capacity, you’ve got nothing left for anybody else. Having slack in your life is prosocial, like carrying around spare change in your pocket in case someone needs it."
+
+### _The false gospel of stuff and status_, by Brian Klaas (Substack) [(link)](https://www.forkingpaths.co/p/the-false-gospel-of-stuff-and-status){target="_blank|}
+
+> "We are all transient flukes, agglomerations of networked atoms, infused, for a time, with consciousness. The value of our lives lies not with building ever higher towers to impress others, but ensuring that our bundle of atoms is fulfilled with passion, while enjoying, enriching, and improving the lives of others who happen to have blinked into existence at the same time as us, sharing this weird and wonderful planet."
