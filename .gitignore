@@ -7,6 +7,8 @@
 # Ignore macOS files
 .DS_Store
 _site/
+!_site/dunn.html
+!_site/vance.html
 
 # Ignore Quarto config
 .quarto/
