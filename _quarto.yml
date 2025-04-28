@@ -27,6 +27,8 @@ website:
             href: essay_questions.qmd
           - text: "Learning Resources"
             href: learning_resources.qmd
+          - text: "LLMs and ChatGPT"
+            href: llms.qmd
           - text: "Miscellany"
             href: miscellany.qmd
       - icon: github
