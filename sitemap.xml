@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/essay_questions.html</loc>
-    <lastmod>2025-04-14T16:11:04.904Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/miscellany.html</loc>
-    <lastmod>2025-04-14T16:11:04.904Z</lastmod>
-  </url>
-  <url>
     <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/online_resources.html</loc>
-    <lastmod>2025-04-14T16:11:04.904Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/learning_resources.html</loc>
-    <lastmod>2025-04-14T16:11:04.904Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/time_management.html</loc>
-    <lastmod>2025-04-14T16:11:04.905Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/index.html</loc>
-    <lastmod>2025-04-14T16:11:04.904Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/software.html</loc>
-    <lastmod>2025-04-14T16:11:04.905Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/presentation.html</loc>
-    <lastmod>2025-04-14T16:11:04.904Z</lastmod>
+    <lastmod>2025-04-28T09:54:25.575Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/calendar.html</loc>
-    <lastmod>2025-04-14T16:11:04.904Z</lastmod>
+    <lastmod>2025-04-28T09:54:25.574Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/time_management.html</loc>
+    <lastmod>2025-04-28T09:54:25.575Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/miscellany.html</loc>
+    <lastmod>2025-04-28T09:54:25.575Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/presentation.html</loc>
+    <lastmod>2025-04-28T09:54:25.575Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/essay_questions.html</loc>
+    <lastmod>2025-04-28T09:54:25.574Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/scicomm.html</loc>
-    <lastmod>2025-04-14T16:11:04.905Z</lastmod>
+    <lastmod>2025-04-28T09:54:25.575Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/learning_resources.html</loc>
+    <lastmod>2025-04-28T09:54:25.575Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/llms.html</loc>
+    <lastmod>2025-04-28T09:54:25.575Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/index.html</loc>
+    <lastmod>2025-04-28T09:54:25.574Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbscompbiol-pda/software.html</loc>
+    <lastmod>2025-04-28T09:54:25.575Z</lastmod>
   </url>
 </urlset>
