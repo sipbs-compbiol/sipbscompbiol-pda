@@ -26,9 +26,19 @@ This page, and any articles that come from external sources, are **_opinions_**.
 
 ## Careers
 
-### _The worst advice parents can give first-year students_, by Ezekiel J. Emanual (The Atlantic) [(link)](){targe="_blank"}
+### _The worst advice parents can give first-year students_, by Ezekiel J. Emanual (The Atlantic) [(link)](https://www.theatlantic.com/ideas/archive/2024/08/worst-advice-parents-can-give-college-first-years/679610/?gift=H8yb8mRZYxqPiayxAxcfABenohOSYOeBEb4e16hEI1o&utm_source=copy-link&utm_medium=social&utm_campaign=share){target="_blank"}
 
 > "[Parents] often think in too short of a timeframe, focusing on the first job out of school and its starting salary. But students entering college today will likely work until they are about 70 years old, and probably live beyond 90—retiring around 2075 and perhaps living to see the next century. If you know what the best, most rewarding, and most fulfilling careers will be over that time span, you have extraordinary clairvoyant powers."
+
+## CVs
+
+### _Crafting Resumes and Cover Letters That Beat AI Screeners_ (Dice.com) [(link)](https://www.dice.com/career-advice/crafting-resumes-and-cover-letters-that-beat-ai-screeners)
+
+> "If you’ve applied for a tech job within the past few years, you’re well aware that your applications have been scanned by an Applicant Tracking System, or ATS. These software platforms are the initial eyes that scan your documents, filtering and ranking candidates before a human even takes a look. When it comes to ATS, you need to understand how these systems “listen” and tailor your application accordingly, especially given how more ATS systems are incorporating some degree of AI. Let's dive into how you can craft "smart applications" that speak the language of AI screeners and land you that coveted job interview."
+
+### _This One CV Mistake Made Me Invisible to Hiring Algorithm_ (Hackernoon.com) [(link)](https://hackernoon.com/this-one-cv-mistake-made-me-invisible-to-hiring-algorithms)
+
+> "After submitting 100 applications, I landed just one interview and one online assessment. That’s a 2% conversion rate — a number that would terrify any job seeker. I knew something was wrong, and I was determined to figure out what. Looking back, my old CV was a textbook example of what not to do. It had two critical mistakes that were silently sabotaging my chances."
 
 ## Productivity
 
