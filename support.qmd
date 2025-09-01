@@ -1,0 +1,64 @@
+---
+title: "Student Support and Wellbeing"
+image: ./assets/images/support.jpg
+description: |
+ Links to support and wellbeing resources for students
+tbl-colwidths: [5, 10, 50, 5]
+number-sections: true
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+html:
+  anchor-sections: true      
+---
+
+## Learning and Research
+
+- [Learner Development Services](https://www.strath.ac.uk/studywithus/strathlife/academicsupport/) work with students and staff to support useful learning and research excellence through one-to-one consultations, classroom-based activities, drop-in tutorials, and online resources.
+
+## Disability and Wellbeing
+
+- The [Disability and Wellbeing Service](https://www.strath.ac.uk/professionalservices/disabilityandwellbeing/) has a range of advisers with specialist expertise in disability, health, mental health and counselling, providing broad range of support to students with any disability, mental health and wellbeing related needs
+  - [Spectrum Life](https://www.strath.ac.uk/professionalservices/disabilityandwellbeing/mentalhealthwellbeingsupport/spectrumlife/) provide **confidential 24/7 out of hours support** from a team of Counsellors and Psychotherapists.
+  - [Rape Crisis Scotland](https://www.strath.ac.uk/professionalservices/disabilityandwellbeing/rapecrisissupport/) offer confidential specialist support if you have experienced sexual violence at any point in your life or know someone who has, and you would like to talk to someone.
+- [Strath Union Health and Wellbeing](https://www.strathunion.com/support/healthandwellbeing/) provide support with health and wellbeing
+- [Hear To Listen](https://www.strathunion.com/support/heartolisten/) is a service offering informal, confidential wellbeing support
+
+## Funding and Financial Support
+
+- The [Funding and Financial Support](https://www.strath.ac.uk/professionalservices/studentexperience/fundingfinancialsupportteam/) team are here to help you navigate the financial side of student life, offering guidance, advice, and support to ensure that money issues don’t stand in the way of your studies.
+  - [Discretionary Fund](https://www.strath.ac.uk/studywithus/scholarships/discretionaryfund/) for Home Nations students in financial difficulty
+  - [Housing Support Fund](https://www.strath.ac.uk/studywithus/scholarships/housingsupportfund/) for students with urging housing need
+  - [Mature Students Hardship Fund](https://www.strath.ac.uk/studywithus/scholarships/maturestudentshardshipfund/) for students 21 and over
+  - [Childcare Fund](https://www.strath.ac.uk/studywithus/scholarships/childcarefund/) for SAAS-funded students with children requiring registered childcare
+  - [Emergency Aid Loan Fund](https://www.strath.ac.uk/studywithus/scholarships/emergencyaidfund/) for unexpected financial hardship
+- [Strath Union Housing](https://www.strathunion.com/support/housing/) provide support and help with housing
+- [Strath Union Money](https://www.strathunion.com/support/money/) provide resources for managing money and financial support
+
+## International Students
+
+- The [International Student Support Team](https://www.strath.ac.uk/studywithus/internationalstudents/whileyourehere/internationalstudentsupportteam/) offers specialised guidance in study-related imigration, personal issues, and settling into life in Glasgow.
+  - [International Arrival Support](https://www.strath.ac.uk/studywithus/internationalstudents/beforeyouarrive/internationalarrivalsupport/)
+- [SEAS](https://www.strath.ac.uk/studywithus/englishlanguageteaching/supportforenglishforacademicstudyseas/) support English for academic study
+  
+## Safeguarding
+
+- [Safe 360](https://www.strath.ac.uk/whystrathclyde/safe360/) is the university's safeguarding framework.
+  - [Report and Support](https://www.strath.ac.uk/whystrathclyde/safe360/reportsupport/) for reporting behaviour that puts the community at risk
+  - [Strathclyde SOS](https://www.strath.ac.uk/whystrathclyde/safe360/strathclydesos/) a personal alarm on your smartphone
+- [Glasgow Taxis Safe Home Scheme](https://www.strathunion.com/support/safehome/) get a taxi using you name and matriculation number, and you can pay later
+- [Emergency and Wellbeing Contact Procedure](https://www.strath.ac.uk/professionalservices/disabilityandwellbeing/mentalhealthwellbeingsupport/emergencywellbeingcontact/procedureguidance/)
+- [Strath Union Support](https://www.strathunion.com/support/) provides an Advice Hub that can help support you
+- [Strath Union Complaints](https://www.strathunion.com/support/complaintsdiscipline/) can advise if you are unhappy with things at the university
+- [Samaritans](https://www.samaritans.org/scotland/?nation=scotland) is a free, 24/7 confidential support organisation for anyone struggling with suicidal thoughts
+- [Shout](https://giveusashout.org/) is a free, confidential, 24/7 text messaging support service for anyone who is struggling to cope
+- [Breathing Space](https://www.breathingspace.scot/) is a confidential phoneline for anyone in Scotland over the age of 16, feeling low, anxious, or depressed

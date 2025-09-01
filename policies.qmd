@@ -1,0 +1,38 @@
+---
+title: "University Policies"
+image: ./assets/images/policies.jpg
+description: |
+ Key university policies
+tbl-colwidths: [5, 10, 50, 5]
+number-sections: true
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+html:
+  anchor-sections: true      
+---
+
+The university has a number of policies relevant to your studies. Please at least make yourselves aware that these policies exist and cover the topics named. Ideally you'd read them too.
+
+- [Guidance on Maintaining Academic Integrity](https://www.strath.ac.uk/professionalservices/educationenhancement/qualityassurance/academicintegrityguidance/): there are fundamental values we try to uphold as academics, and these policies outline what they are, and what you can expect if you breach standards and expectations.
+- [Personal Circumstances and Academic Appeals](https://www.strath.ac.uk/policies/academicpoliciesprocedures/personalcircumstancesacademicappealsprocedure/): we hope that everything will run smoothly, but life happens. When this interferes with your studies these are _personal circumstances_ and they can be accounted for when you are assessed.
+- [Dignity and Respect](https://www.strath.ac.uk/whystrathclyde/safe360/dignityrespectadvisers/): you have a right to protection from bullying, harassment, victimisation, and discrimination.
+- [Social Media and Virtual Learning Environments](https://www.strath.ac.uk/media/ps/cs/gmap/academicaffairs/policies/Student_Guidance_on_the_use_of_Social_Media_and_Virtual_Learni.pdf): we all have a responsibility to create and maintain a healthy online environment - stay respectful in your communications.
+- [Extensions to Coursework Submission](https://www.strath.ac.uk/media/ps/cs/gmap/academicaffairs/policies/Policy_and_Procedure_on_extensions_to_coursework_submission_-_published.pdf): guidelines for the circumstances in which you may request extra time to complete coursework.
+- [Late Submission of Coursework](https://www.strath.ac.uk/media/ps/cs/gmap/academicaffairs/policies/Policy_and_Procedure_for_late_submission_of_coursework_-_published.pdf): what penalties you might expect to be applied for late submission of coursework.
+- [The Use of Turnitin](https://www.strath.ac.uk/media/ps/cs/gmap/academicaffairs/policies/Guidelines_for_the_Use_of_Turnitin.pdf): how you can expect us to use Turnitin to detect potential academic misconduct.
+- [Student Discipline Procedures](https://www.strath.ac.uk/policies/academicpoliciesprocedures/studentdisciplineprocedures/): how you can expect the university to deal with cases of misconduct.
+- [Voluntary Suspension](https://www.strath.ac.uk/professionalservices/studentexperience/studentlifecycle/voluntarysuspension/): how you can expect the university to handle a request to interrupt your studies.
+- [Criminal Proceeedings and Criminal Convictions](): how you can expect the university to deal with criminal charges and convictions.
+- [Fitness to Practise](https://www.strath.ac.uk/policies/academicpoliciesprocedures/fitnesstopractise/): how the university will respond to concerns about a student's Fitness to Practise.
+- [Student Module Evaluation](https://www.strath.ac.uk/media/ps/cs/gmap/academicaffairs/policies/Student_Module_Evaluation_Policy_-_Final_15062021.pdf): the principles behind module evaluation, and how the university uses the feedback.
+

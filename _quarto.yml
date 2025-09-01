@@ -13,6 +13,10 @@ website:
         menu: 
           - text: "Key Dates"
             href: calendar.qmd
+          - text: "Policies"
+            href: policies.qmd
+          - text: "Support/Wellbeing"
+            href: support.qmd
       - text: "Resources"
         menu:
           - text: "Time Management"
