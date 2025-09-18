@@ -38,7 +38,6 @@ This is an **indicative** calendar for PDP activities in {{< var ay >}}.
 
 | Week  | Date/Time    | Activity                               | Responsibility |
 | ----- | :----------- | :------------------------------------- | :------------: |
-<<<<<<< HEAD
 | **Induction Week** | **Thu 18/9** | Academic Family Meeting [(slides)](assets/docs/2025-09_academic_family_meeting.pdf) | **students, LP** |
 | **5** | **w/b Mon 20/10 ?** | 1:1 PDA Meetings | **LP, students** |
 
