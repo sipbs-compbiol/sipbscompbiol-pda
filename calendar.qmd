@@ -39,19 +39,12 @@ This is an **indicative** calendar for PDP activities in {{< var ay >}}.
 | Week  | Date/Time    | Activity                               | Responsibility |
 | ----- | :----------- | :------------------------------------- | :------------: |
 | **Induction Week** | **Thu 18/9** | Academic Family Meeting | **students, LP** |
-| **1** | **Fri 26/9** | **Year 1:** ENROL on the [Careers & Employability Module](https://www.strath.ac.uk/professionalservices/careers/studgrad/welcometotheundergraduatecareersmodule/) | **student** |
-| **1** | **Fri 26/9** | **Year 3:** | ENROL on the [Careers & Employability Module](https://www.strath.ac.uk/professionalservices/careers/studgrad/welcometotheundergraduatecareersmodule/) | **student** |
-| **4** | **Fri 17/10** | **Year 1:** Upload "EXPLORE I just don’t know what to do with myself." to [SPIDER]({{< var spider.epdp >}}) | **student** |
-| **4** | **Fri 17/10** | Complete [ePDP sections]({{< var spider.epdp >}}) and book a 1:1 meeting slot at [SPIDER]({{< var spider.booking >}}) | **student** |
+Module](https://www.strath.ac.uk/professionalservices/careers/studgrad/welcometotheundergraduatecareersmodule/) | **student** |
 | **5** | **w/b Mon 20/10 ?** | 1:1 PDA Meetings | **LP, students** |
-| **6** | **Fri 31/10** | **Year 3:** Upload "PLAN: Gaining and Recognising Your Experience. Complete the Goal-setting and Action Planning activity in section 4.9" to [SPIDER]({{< var spider.epdp >}}) | **student** |
 
 
 ### Semester 2
 
 | Week  | Date/Time    | Activity                               | Responsibility |
 | ----- | :----------- | :------------------------------------- | :------------: |
-| **3** | **Fri 6/2** | **Year 1:** Upload the completed Skills Audit and worksheet to [SPIDER]({{< var spider.epdp >}}) | **student** |
-| **3** | **Fri 6/2** | **Year 3:** Write a short report summarising the research you have done about the employer/organisation your CV & covering letter are tailored to, and upload to [SPIDER]({{< var spider.epdp >}}) | **student** |
-| **3** | **Fri 6/2** | Complete [ePDP sections]({{< var spider.epdp >}}) and book a 1:1 meeting slot at [SPIDER]({{< var spider.booking >}}) | **student** |
 | **4** | **w/b Mon 10/2 ?** | 1:1 PDA Meetings | **LP, students** |
