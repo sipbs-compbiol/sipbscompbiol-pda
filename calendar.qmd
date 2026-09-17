@@ -42,7 +42,8 @@ This is an **indicative** calendar for PDP activities in {{< var ay >}}.
 
 | Week  | Date/Time    | Activity                               | Responsibility |
 | ----- | :----------- | :------------------------------------- | :------------: |
-| **Induction Week** | **Thu 17/9** | Academic Family Meeting [(slides)](assets/docs/2026-09-17_academic_family_meeting.pdf) | **students, LP** |
+| **Induction Week** | **Thu 17/9** | Academic Family Meeting <br/>  [(slides)](assets/docs/FINAL_PDA_Slides_2026-2027.pdf) <br /> [Tell Strathclyde induction](assets/docs/Tell_Strathclyde_Student_Induction_Presentation.pdf) <br /> 
+[Student Support Flowchart](assets/docs/Strathclyde_Student_Support_Flowchart_AY26-27.pdf) | **students, LP** |
 | **5** | **w/b Mon 19/10** | 1:1 PDA Meetings | **LP, students** |
 
 
