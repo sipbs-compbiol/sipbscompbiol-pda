@@ -24,13 +24,17 @@ This site is intended to provide a persistent repository of information to suppo
 ::: {.callout-warning}
 **This site is a secondary resource!**. Please consult with the official course MyPlace links for submission dates, deadlines, and other timings. Use this site in conjunction with the official information at the links below.
 
-- [BM110: Being a Biomolecular Scientist 1]({{< var myplace.year1 >}})
-- [BM214: Being a Biomolecular Scientist 2]({{< var myplace.year2 >}})
-- [BM327: Being a Biomolecular Scientist 3]({{< var myplace.year3 >}})
-- [BM4: Biomolecular Sciences 4th Year]({{< var myplace.year4 >}})
+- [BM1: Biomolecular Sciences 1st Year]({{< var myplace.bm1 >}})
+  - [BM110: Being a Biomolecular Scientist 1]({{< var myplace.year1 >}})
+- [BM2: Biomolecular Sciences 2nd Year]({{< var myplace.bm2 >}})
+  - [BM214: Being a Biomolecular Scientist 2]({{< var myplace.year2 >}})
+- [BM3: Biomolecular Sciences 3rd Year]({{< var myplace.bm3 >}})
+  - [BM327: Being a Biomolecular Scientist 3]({{< var myplace.year3 >}})
+- [BM4: Biomolecular Sciences 4th Year]({{< var myplace.bm4 >}})
+  - [BM432: Being a Biomolecular Scientist 4]({{< var myplace.year4 >}})
 :::
 
-Information is organised under headings: 
+Information on these pages is organised under headings: 
 
 - `PDA Info` links to a calendar with the timings of family and 1:1 meetings.
 - `Resources` has a collection of links and articles to help support you in your personal development

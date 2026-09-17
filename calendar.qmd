@@ -24,10 +24,14 @@ html:
 ::: {.callout-warning}
 **This calendar is a secondary resource!**. Please consult with the official course MyPlace links for submission dates, deadlines, and other timings. The official information can be found at the links below.
 
-- [BM110: Being a Biomolecular Scientist 1]({{< var myplace.year1 >}})
-- [BM214: Being a Biomolecular Scientist 2]({{< var myplace.year2 >}})
-- [BM327: Being a Biomolecular Scientist 3]({{< var myplace.year3 >}})
-- [BM4: Being a Biomolecular Scientist 4]({{< var myplace.year4 >}})
+- [BM1: Biomolecular Sciences 1st Year]({{< var myplace.bm1 >}})
+  - [BM110: Being a Biomolecular Scientist 1]({{< var myplace.year1 >}})
+- [BM2: Biomolecular Sciences 2nd Year]({{< var myplace.bm2 >}})
+  - [BM214: Being a Biomolecular Scientist 2]({{< var myplace.year2 >}})
+- [BM3: Biomolecular Sciences 3rd Year]({{< var myplace.bm3 >}})
+  - [BM327: Being a Biomolecular Scientist 3]({{< var myplace.year3 >}})
+- [BM4: Biomolecular Sciences 4th Year]({{< var myplace.bm4 >}})
+  - [BM432: Being a Biomolecular Scientist 4]({{< var myplace.year4 >}})
 :::
 
 ## Calendar
@@ -38,12 +42,14 @@ This is an **indicative** calendar for PDP activities in {{< var ay >}}.
 
 | Week  | Date/Time    | Activity                               | Responsibility |
 | ----- | :----------- | :------------------------------------- | :------------: |
-| **Induction Week** | **Thu 18/9** | Academic Family Meeting [(slides)](assets/docs/2025-09_academic_family_meeting.pdf) | **students, LP** |
-| **5** | **w/b Mon 20/10 ?** | 1:1 PDA Meetings | **LP, students** |
+| **Induction Week** | **Thu 17/9** | Academic Family Meeting <br/>  [(slides)](assets/docs/FINAL_PDA_Slides_2026-2027.pdf) <br /> [Tell Strathclyde induction](assets/docs/Tell_Strathclyde_Student_Induction_Presentation.pdf) <br /> 
+[Student Support Flowchart](assets/docs/Strathclyde_Student_Support_Flowchart_AY26-27.pdf) | **students, LP** |
+| **5** | **w/b Mon 19/10** | 1:1 PDA Meetings | **LP, students** |
 
 
 ### Semester 2
 
 | Week  | Date/Time    | Activity                               | Responsibility |
 | ----- | :----------- | :------------------------------------- | :------------: |
-| **4** | **w/b Mon 10/2 ?** | 1:1 PDA Meetings | **LP, students** |
+| **Consolidation Week** | **Thu 14/1** | Academic Family Meeting | **students, LP** |
+| **4** | **w/b Mon 9/2** | 1:1 PDA Meetings | **LP, students** |
