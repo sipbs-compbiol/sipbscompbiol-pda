@@ -30,6 +30,16 @@ The university has a **policy concerning the use of genAI.** You should read thi
 - [University of Strathclyde policy on genAI](https://www.strath.ac.uk/professionalservices/educationenhancement/qualityassurance/useofgen-aiinlearningassessment/)
 :::
 
+## Some Opinions
+
+### _Don’t 'never-skill' yourself with AI_, by Adam Kucharski (Substack) [(link)](https://kucharski.substack.com/p/dont-never-skill-yourself-with-ai){target="_blank"}
+
+> "If you rent your abilities, other people can rent them too [...] If your job application, or PhD proposal, or Substack article is a cut-and-paste from ChatGPT, why would anyone commit resources to support your future work? It’s much cheaper and easier for them just to go directly to the source you’re renting from."
+
+### _The Great Cognitive Divide_, by Brian Klaas (Substack) [(link)](https://www.forkingpaths.co/p/the-great-cognitive-divide){target="_blank"}
+
+> "Our world is about to undergo the largest natural experiment in the history of cognition: what if most tasks that previously demanded some level of intellectual processing can simply be handed off to a machine? And crucially, as that happens, who will be the winners and losers of that new reality when it threatens our collective ability to think effectively?"
+
 ## tl;dr: ChatGPT and all its kin are bullshit
 
 genAI tools such as LLMs are statistical models that produce plausible-looking output. They are, however, _bullshit._
@@ -41,6 +51,10 @@ I'm not just being rude. Bullshit has a technical definition:
 > "these programs cannot themselves be concerned with truth, and because they are designed to produce text that looks truth-apt without any actual concern for truth, it seems appropriate to call their outputs bullshit"
 
 As these tools are mathematical models designed to map a _prompt_ onto a statistically-plausible output inferred from a _corpus_ of training text or images, they are not concerned with truth, correctness, or accuracy for any particular question. It is this disregard for truth and accuracy, and desire only to create a _plausible_ answer, that makes ChatGPT and any tool like it a bullshitter, and its answers bullshit.
+
+There are textbooks that will walk you through making your own LLM, showing the practical mathematical underpinnings (e.g. ["Build a Large Language Model From Scratch"](https://www.manning.com/books/build-a-large-language-model-from-scratch)).
+
+The language around LLMs sometimes disguises this mathematical truth. The difference between a "Reasoning Model" and an LLM is that the outputs of "Reasoning Models" are scored on the chain of inference, which is still generated probabilistically - and there are textbooks that will walk you through this, too (e.g. ["Build a Reasoning Model From Scratch"](https://www.manning.com/books/build-a-reasoning-model-from-scratch)). There is no magic. There is no mind behind the curtain.
 
 The bullshit nature of genAI is exemplified by image generation using stable diffusion. This method constructs new images from noise, constrained by your text prompts and its training set.
 
@@ -70,7 +84,7 @@ The performance of ChatGPT in assessments obviously varies by assessment but, sp
 
 I understand that I am not alone in this strategy.
 
-ChatGPT, as noted above, bullshits. It is incapable of arithmetic manipulation, or constructing a logical proposition. It does - to be sure - produce text that superficially appears to look lke text that could answer each question. But even a faintly close examination of the answers however tends to show that stated conclusions are not supported by the text that comes before it, statements of "fact" are made up and incorrect, and citations and references are hallucinated, and do not exist.
+ChatGPT, as noted above, bullshits. It is incapable of arithmetic manipulation, or constructing a logical proposition (except probabilistically). It does - to be sure - produce text that superficially appears to look lke text that could answer each question. But even a faintly close examination of the answers however tends to show that stated conclusions are not supported by the text that comes before it, statements of "fact" are made up and incorrect, and citations and references are hallucinated, and do not exist.
 
 ::: { .callout-tip }
 As educators, we know that ChatGPT exists and adapt our assessments accordingly. Answers obtained via ChatGPT are unlikely to score well.

@@ -67,6 +67,10 @@ This page, and any articles that come from external sources, are **_opinions_**.
 
 ## Resilience
 
+### _What is Resilience?_, by Brian Klaas (Substack) [(link)](https://www.forkingpaths.co/p/what-is-resilience){target="_blank"}
+
+> "In popular culture, resilience and stability are often considered adjacent concepts. But in complex systems theory, they couldn’t be more different—and it’s downright dangerous to conflate them, a lesson that we would be wise to learn to protect ourselves and our increasingly fragile societies."
+
 ### _Against Optimization_, by Brian Klaas (Substack) [(link)](https://www.forkingpaths.co/p/against-optimization){target="_blank"}
 
 > "What one person mistakes as inefficiency may actually be resilience. Rather than a demon to be slayed by a McKinsey exorcism, social slack is required for robustness. From modern social systems to our individual lives, we are over-optimized, courting disaster because we are deliberately slicing away the sinews that make ourselves and our world sturdier."

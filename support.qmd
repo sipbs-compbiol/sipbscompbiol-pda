@@ -21,6 +21,14 @@ html:
   anchor-sections: true      
 ---
 
+## Tell Strathclyde
+
+::: { .callout-important }
+The University has launched a new unified resource for most support and wellbeing services called **Tell Strathclyde**
+
+- [Tell Strathclyde](https://www.strath.ac.uk/studywithus/strathlife/tellstrathclyde/)
+:::
+
 ## Learning and Research
 
 - [Learner Development Services](https://www.strath.ac.uk/studywithus/strathlife/academicsupport/) work with students and staff to support useful learning and research excellence through one-to-one consultations, classroom-based activities, drop-in tutorials, and online resources.
