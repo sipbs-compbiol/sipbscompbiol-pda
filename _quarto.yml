@@ -42,7 +42,7 @@ website:
       - icon: rss
         href: index.xml  
   page-footer: 
-    left: This site © University of Strathclyde 2023
+    left: This site © University of Strathclyde 2023-present
 
 
 format:

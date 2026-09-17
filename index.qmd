@@ -31,7 +31,7 @@ This site is intended to provide a persistent repository of information to suppo
 - [BM3: Biomolecular Sciences 3rd Year]({{< var myplace.bm3 >}})
   - [BM327: Being a Biomolecular Scientist 3]({{< var myplace.year3 >}})
 - [BM4: Biomolecular Sciences 4th Year]({{< var myplace.bm4 >}})
-  - [BM432: Being a Biomolecular Scientist 4]({{< var myplace.year 4 >}})
+  - [BM432: Being a Biomolecular Scientist 4]({{< var myplace.year4 >}})
 :::
 
 Information on these pages is organised under headings: 
