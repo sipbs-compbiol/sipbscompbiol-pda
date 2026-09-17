@@ -13,3 +13,5 @@ _site/
 # Ignore Quarto config
 .quarto/
 /.quarto/
+
+**/*.quarto_ipynb
