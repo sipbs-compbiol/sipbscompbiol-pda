@@ -84,7 +84,7 @@ The performance of ChatGPT in assessments obviously varies by assessment but, sp
 
 I understand that I am not alone in this strategy.
 
-ChatGPT, as noted above, bullshits. It is incapable of arithmetic manipulation, or constructing a logical proposition (except probabilistically). It does - to be sure - produce text that superficially appears to look lke text that could answer each question. But even a faintly close examination of the answers however tends to show that stated conclusions are not supported by the text that comes before it, statements of "fact" are made up and incorrect, and citations and references are hallucinated, and do not exist.
+ChatGPT, as noted above, bullshits. It is incapable of arithmetic manipulation, or constructing a logical proposition (except probabilistically). It does - to be sure - produce text that superficially appears to look like text that could answer each question. But stated conclusions may not be supported by the text that comes before them, statements of "fact" may be made up and incorrect, and citations and references may be hallucinated, and might not exist.
 
 ::: { .callout-tip }
 As educators, we know that ChatGPT exists and adapt our assessments accordingly. Answers obtained via ChatGPT are unlikely to score well.
